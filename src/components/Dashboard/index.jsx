@@ -11,7 +11,10 @@ const Dashboard = React.memo(() => {
 
   const fetchData = async (id) => {
     try {
-      const response = await fetch(`/dmps/${id}`);
+      const response = await fetch(`/dmps/${id}`, {
+        method: 'GET',
+        mode: 'cors',
+      });
       const data = await response.json();
       if (data.errors.length > 0) {
         appDispatch({ type: 'setErrors', value: data.errors });
