@@ -42,7 +42,7 @@ function DMPDashboard({ data, rowsPerPage = 2 }) {
   function ourReducer(draft, action) {
     switch (action.type) {
       case 'setEditRowValues':
-        const selectedItem = data.find(
+        const selectedItem = draft.dmpData.find(
           (item) => item.dmp.dmp_id.identifier === action.value
         );
 
