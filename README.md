@@ -12,13 +12,19 @@ The POST requests have been mocked in this application using `msw`. Mock files c
 
 The font used in this application is Google's Public Sans, and the css is a mix of Bootstrap along with custom css.
 
-# Getting Started with Create React App
+## Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app). It installs many commonly used tools for web apps and configures webpack to use standard configurations.
 
-## Available Scripts
+## Setup
+
+Download or clone the respository.
 
 In the project directory, you can run:
+
+### `npm install`
+
+This will add the node modules specified in package.json
 
 ### `npm start`
 
@@ -45,3 +51,9 @@ The build is minified and the filenames include the hashes.\
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+
+## Credits
+
+List of contributors:
+
+- Juliet Shin
