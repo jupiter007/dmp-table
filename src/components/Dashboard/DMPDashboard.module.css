@@ -1,0 +1,133 @@
+table {
+  border-collapse: collapse;
+  width: 100%;
+}
+
+table button {
+  background: transparent;
+  border: none;
+  cursor: pointer;
+  font-weight: bold;
+  outline: none;
+  text-align: left;
+  width: 100%;
+}
+
+table button:focus {
+  background: transparent;
+  outline: none;
+}
+
+.buttonContainer {
+  display: flex; /*allows inline display of buttons*/
+}
+
+.contributorCount,
+.opportunityId {
+  text-align: center;
+}
+
+.btn-edit {
+  background-color: var(--btn-green);
+  border: 1px solid transparent;
+  border-radius: 0.2rem;
+  color: #fff;
+  display: inline-block;
+  font-size: 0.875rem;
+  font-weight: 400;
+  line-height: 1.5;
+  padding: 0.25rem 0.5rem;
+  text-align: center;
+  user-select: none;
+  transition: color 0.15s ease-in-out, background-color 0.15s ease-in-out,
+    border-color 0.15s ease-in-out, box-shadow 0.15s ease-in-out;
+  vertical-align: middle;
+  white-space: nowrap;
+}
+
+.btn-save:focus,
+.btn-edit:focus,
+.btn-cancel:focus {
+  color: var(--dark);
+}
+
+.sortable {
+  cursor: pointer;
+  position: relative;
+  white-space: nowrap;
+}
+
+input {
+  resize: both;
+}
+
+.modified {
+  white-space: nowrap;
+}
+
+.arrow {
+  width: 0;
+  height: 0;
+  border: 7px solid transparent;
+  border-bottom-color: var(--dark);
+  position: relative;
+  top: -20px;
+  left: 8px;
+  right: 0;
+}
+
+.arrow:after {
+  content: '';
+  position: absolute;
+  left: -7px;
+  top: 28px;
+  width: 0;
+  height: 0;
+  border: 7px solid transparent;
+  border-top-color: var(--dark);
+}
+
+.desc .arrow {
+  width: 0;
+  height: 0;
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-bottom: 7px solid var(--dark); /* Change color as needed */
+  border-top: none;
+  display: inline-block;
+  transition: transform 0.3s; /* Add a smooth transition */
+  transform: rotate(180deg);
+  top: 0;
+}
+
+.asc .arrow {
+  width: 0;
+  height: 0;
+  border-left: 7px solid transparent;
+  border-right: 7px solid transparent;
+  border-bottom: 7px solid var(--dark); /* Change color as needed */
+  border-top: none;
+  display: inline-block;
+  transition: transform 0.3s; /* Add a smooth transition */
+  transform: rotate(0deg);
+  top: -3px;
+}
+
+.desc .arrow::after,
+.asc .arrow::after {
+  border: none;
+}
+
+.sortable.asc,
+.sortable.desc {
+  padding-right: 10px;
+}
+
+textArea:hover {
+  background-color: var(--faint-orange);
+}
+
+textArea:focus {
+  outline: 1px solid var(--gray);
+  border: 1px solid var(--gray);
+}

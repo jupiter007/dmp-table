@@ -1,0 +1,253 @@
+[
+  {
+    "dmp": {
+      "dmp_id": {
+        "type": "doi",
+        "identifier": "https://doi.org/10.48321/D1J31B"
+      },
+      "modified": "2023-08-14T21:48:36Z",
+      "title": "FAIR annotated dataset of stroke MRIs, CTs, and metadata",
+      "contact": {
+        "mbox": "afaria1@jhmi.edu"
+      },
+      "contributor": [
+        {
+          "name": "Xin Li"
+        },
+        {
+          "name": "Johnny Hsu"
+        },
+        {
+          "name": "Brenda Johnson"
+        }
+      ],
+      "description": "<p>To extract meaningful and reproducible models of brain function from stroke images, for both clinical and research proposes, is a daunting task severely hindered by the great variability of lesion frequency and patterns. Large datasets are therefore imperative, as well as fully automated image post-processing tools to analyze them. The development of such tools, particularly with artificial intelligence, is highly dependent on the availability of large datasets to model training and testing. We will create and share a public dataset of 4,000 multimodal clinical MRIs and CTs of patients with acute and early subacute stroke, with manual lesion segmentation, and metadata. The dataset provides high quality, large scale, human-supervised knowledge to feed artificial intelligence models and enable further development of tools to automate several tasks that currently rely on human labor, such as lesion segmentation, labeling, calculation of disease-relevant scores. It also represents a valuable training and testing resource for translational research relating lesion features to risk factors, brain functions and patients’ outcomes.</p>",
+      "project": [
+        {
+          "funding": [
+            {
+              "name": "Federation of American Societies for Experimental Biology (faseb.org)",
+              "dmproadmap_funding_opportunity_id": 1
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dmp": {
+      "dmp_id": {
+        "type": "doi",
+        "identifier": "https://doi.org/10.48321/D1WK99"
+      },
+      "modified": "2023-08-14T21:48:36Z",
+      "title": "Development of Cutibacterium-specific immunoassays to identify true Cutibacterium acnes infections.",
+      "contact": {
+        "mbox": "wmccoy@jhmi.edu"
+      },
+      "contributor": [
+        {
+          "name": "William Howard Mccoy"
+        },
+        {
+          "name": "Sandra Lee"
+        }
+      ],
+      "description": "<p>This study will generate genomic data, but it will only be used for control purposes. Therefore, this project is not within the National Institutes of Health (NIH) Genomic Data Sharing (GDS) policy’s intended scope.</p>",
+      "project": [
+        {
+          "funding": [
+            {
+              "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases (niams.nih.gov)",
+              "dmproadmap_funding_opportunity_id": 2
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dmp": {
+      "dmp_id": {
+        "type": "doi",
+        "identifier": "https://doi.org/10.48321/D1BS7N "
+      },
+      "modified": "2023-04-21T21:48:36Z",
+      "title": "Effects of Placental Dysfunction on Brain Growth in Congenital Heart Disease.",
+      "contact": {
+        "mbox": "cortinau@jhmi.edu"
+      },
+      "contributor": [
+        {
+          "name": "Cynthia Ortinau"
+        }
+      ],
+      "description": "<p>The proposed project will involve human participants and will acquire demographic, clinical, fetal/placental magnetic resonance imaging (MRI), genomic, and placental tissue data from 225 pregnant women with a fetal diagnosis of CHD and 115 pregnant women with a healthy fetus.</p>",
+      "project": [
+        {
+          "funding": [
+            {
+              "name": "National Institutes of Health (NIH)",
+              "dmproadmap_funding_opportunity_id": 3
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dmp": {
+      "dmp_id": {
+        "type": "doi",
+        "identifier": "https://doi.org/10.48321/D1X324"
+      },
+      "modified": "2023-04-21T21:48:36Z",
+      "title": "Accumbal adaptations that contribute to weight regain after weight loss.",
+      "contact": {
+        "mbox": "cortinau@jhmi.edu"
+      },
+      "contributor": [
+        {
+          "name": "Cynthia Ortinau"
+        }
+      ],
+      "description": "<p>Justo donec enim diam vulputate ut pharetra. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Tellus elementum sagittis vitae et leo. Etiam tempor orci eu lobortis.</p>",
+      "project": [
+        {
+          "funding": [
+            {
+              "name": "National Institutes of Health (NIH)",
+              "dmproadmap_funding_opportunity_id": 4
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dmp": {
+      "dmp_id": {
+        "type": "doi",
+        "identifier": "https://doi.org/10.48321/D1J31A"
+      },
+      "modified": "2022-10-15T21:48:36Z",
+      "title": "FAIR annotated dataset of stroke MRIs, CTs, and metadata.",
+      "contact": {
+        "mbox": "afaria@jhmi.edu"
+      },
+      "contributor": [
+        {
+          "name": "Andreia Faria"
+        },
+        {
+          "name": "Brenda Johnson"
+        },
+        {
+          "name": "Johnny Hsu"
+        },
+        {
+          "name": "Xin Li"
+        }
+      ],
+      "description": "<p>Eu consequat ac felis donec et odio. Venenatis cras sed felis eget velit aliquet sagittis. Aliquet enim tortor at auctor urna nunc id. Facilisis volutpat est velit egestas dui id ornare arcu. Mattis ullamcorper velit sed ullamcorper morbi tincidunt.</p>",
+      "project": [
+        {
+          "funding": [
+            {
+              "name": "Federation of American Societies for Experimental Biology (faseb.org)",
+              "dmproadmap_funding_opportunity_id": 5
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dmp": {
+      "dmp_id": {
+        "type": "doi",
+        "identifier": "https://doi.org/10.48321/D1R316"
+      },
+      "modified": "2022-09-22T21:48:36Z",
+      "title": "Coastal Ocean Processes of North Greenland.",
+      "contact": {
+        "mbox": "amuenchow@jhmi.edu"
+      },
+      "contributor": [],
+      "description": "<p>I propose to analyze a unique 2014-18 ocean data set to investigate dynamics at this scale with mooring, survey, satellite, and modeling data. We hypothesize that canyon dynamics control across-shelf property and energy flux by the interaction of rotation, topography, and friction at tidal to interannual time scales.</p>",
+      "project": [
+        {
+          "funding": [
+            {
+              "name": "National Science Foundation",
+              "dmproadmap_funding_opportunity_id": 6
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dmp": {
+      "dmp_id": {
+        "type": "doi",
+        "identifier": "https://doi.org/10.48321/D10601"
+      },
+      "modified": "2022-09-22T21:48:36Z",
+      "title": "Compatibilização entre aços/concretos inovadores: Uma abordagem interdisciplinar e multiescala.",
+      "contact": {
+        "mbox": "amuenchow@jhmi.edu"
+      },
+      "contributor": [],
+      "description": "<p>O Projeto Inicial π descrito nesta proposta dedica-se à materiais para construção civil, com o objetivo de promover progressos científicos e tecnológicos integrados com iniciativas de ensino em concretos armados inovadores que sejam duráveis, seguros, sustentáveis e acessíveis. </p>",
+      "project": [
+        {
+          "funding": [
+            {
+              "name": "São Paulo Research Foundation (fapesp.br)",
+              "dmproadmap_funding_opportunity_id": 7
+            }
+          ]
+        }
+      ]
+    }
+  },
+  {
+    "dmp": {
+      "dmp_id": {
+        "type": "doi",
+        "identifier": "https://doi.org/10.48321/D1BK5T"
+      },
+      "modified": "2023-04-21T21:48:36Z",
+      "title": "Using natural language processing to determine predictors of healthy diet and physical activity behavior change in ovarian cancer survivors",
+      "contact": {
+        "mbox": "ddiaz@jhmi.edu"
+      },
+      "contributor": [
+        {
+          "name": "Damian Yukio Romero Diaz"
+        },
+        {
+          "name": "Hagan Franks"
+        },
+        {
+          "name": "John Culnan"
+        },
+        {
+          "name": "Rebecca Sharp"
+        }
+      ],
+      "description": "<p>Cancer survivors are a growing population in the United States; more than 16 million currently live in the US and by 2030 this number is expected to exceed 22 million.</p>",
+      "project": [
+        {
+          "funding": [
+            {
+              "name": "National Institutes of Health (NIH)",
+              "dmproadmap_funding_opportunity_id": 8
+            }
+          ]
+        }
+      ]
+    }
+  }
+]
