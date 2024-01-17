@@ -43,8 +43,10 @@ const Dashboard = React.memo(() => {
         await Promise.all(
           dmp_ids.map(async (dmp_id) => {
             const data = await fetchData(dmp_id);
+            const regex = /\/dmps\/\d+\.\d+\/(\w+)/;
+
             if (data.items[0] === null) {
-              const id = data.requested.match(/\/(\d+\.\d+)\//)[1];
+              const id = data.requested.match(regex)[1];
               appDispatch({
                 type: 'setErrors',
                 value: `The data for ${id} was not available`,
