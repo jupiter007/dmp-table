@@ -26,6 +26,10 @@ In the project directory, you can run:
 
 This will add the node modules specified in package.json
 
+### `node version`
+
+Please use the latest node version. If you have `nvm`, you can run `nvm use node` before you start
+
 ### `npm start`
 
 This will run the app in development mode.

@@ -48,7 +48,7 @@ describe('DMPDashboard', () => {
     const firstRow = rows[1];
     const cells = within(firstRow).queryAllByRole('cell');
     expect(cells[2].textContent).toBe(
-      'Accumbal adaptations that contribute to weight regain after weight loss.'
+      'Coastal Ocean Processes of North Greenland'
     );
 
     fireEvent.click(titleColumnHeader);
@@ -56,8 +56,6 @@ describe('DMPDashboard', () => {
     const rows2 = screen.getAllByRole('row');
     const firstRow2 = rows2[1];
     const cells2 = within(firstRow2).queryAllByRole('cell');
-    expect(cells2[2].textContent).toBe(
-      'Using natural language processing to determine predictors of healthy diet and physical activity behavior change in ovarian cancer survivors'
-    );
+    expect(cells2[2].textContent).toBe('Test plan');
   });
 });

@@ -1,251 +1,1730 @@
 [
   {
     "dmp": {
-      "dmp_id": {
-        "type": "doi",
-        "identifier": "https://doi.org/10.48321/D1J31B"
-      },
-      "modified": "2023-08-14T21:48:36Z",
-      "title": "FAIR annotated dataset of stroke MRIs, CTs, and metadata",
-      "contact": {
-        "mbox": "afaria1@jhmi.edu"
-      },
-      "contributor": [
-        {
-          "name": "Xin Li"
-        },
-        {
-          "name": "Johnny Hsu"
-        },
-        {
-          "name": "Brenda Johnson"
-        }
-      ],
-      "description": "<p>To extract meaningful and reproducible models of brain function from stroke images, for both clinical and research proposes, is a daunting task severely hindered by the great variability of lesion frequency and patterns. Large datasets are therefore imperative, as well as fully automated image post-processing tools to analyze them. The development of such tools, particularly with artificial intelligence, is highly dependent on the availability of large datasets to model training and testing. We will create and share a public dataset of 4,000 multimodal clinical MRIs and CTs of patients with acute and early subacute stroke, with manual lesion segmentation, and metadata. The dataset provides high quality, large scale, human-supervised knowledge to feed artificial intelligence models and enable further development of tools to automate several tasks that currently rely on human labor, such as lesion segmentation, labeling, calculation of disease-relevant scores. It also represents a valuable training and testing resource for translational research relating lesion features to risk factors, brain functions and patients’ outcomes.</p>",
+      "ethical_issues_report": "",
       "project": [
         {
+          "start": "2023-07-01T00:00:00Z",
+          "description": "<p>I propose to analyze a unique 2014-18 ocean data set to investigate dynamics at this scale with mooring, survey, satellite, and modeling data. We hypothesize that canyon dynamics control across-shelf property and energy flux by the interaction of rotation, topography, and friction at tidal to interannual time scales.</p>",
+          "end": "2026-06-30T00:00:00Z",
           "funding": [
             {
-              "name": "Federation of American Societies for Experimental Biology (faseb.org)",
-              "dmproadmap_funding_opportunity_id": 1
+              "name": "National Science Foundation (nsf.gov)",
+              "dmproadmap_funding_opportunity_id": {
+                "type": "other",
+                "identifier": "PD 98-1610 - Physical Oceanography"
+              },
+              "funder_id": {
+                "type": "fundref",
+                "identifier": "https://doi.org/10.13039/100000001"
+              },
+              "funding_status": "planned",
+              "dmproadmap_funded_affiliations": [
+                {
+                  "name": "University of Delaware (udel.edu)",
+                  "affiliation_id": {
+                    "type": "ror",
+                    "identifier": "https://ror.org/01sbq1a82"
+                  }
+                }
+              ]
             }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "dmp": {
-      "dmp_id": {
-        "type": "doi",
-        "identifier": "https://doi.org/10.48321/D1WK99"
-      },
-      "modified": "2023-08-14T21:48:36Z",
-      "title": "Development of Cutibacterium-specific immunoassays to identify true Cutibacterium acnes infections.",
-      "contact": {
-        "mbox": "wmccoy@jhmi.edu"
-      },
-      "contributor": [
-        {
-          "name": "William Howard Mccoy"
-        },
-        {
-          "name": "Sandra Lee"
+          ],
+          "title": "Coastal Ocean Processes of North Greenland"
         }
       ],
-      "description": "<p>This study will generate genomic data, but it will only be used for control purposes. Therefore, this project is not within the National Institutes of Health (NIH) Genomic Data Sharing (GDS) policy’s intended scope.</p>",
-      "project": [
-        {
-          "funding": [
-            {
-              "name": "National Institute of Arthritis and Musculoskeletal and Skin Diseases (niams.nih.gov)",
-              "dmproadmap_funding_opportunity_id": 2
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "dmp": {
-      "dmp_id": {
-        "type": "doi",
-        "identifier": "https://doi.org/10.48321/D1BS7N "
-      },
-      "modified": "2023-04-21T21:48:36Z",
-      "title": "Effects of Placental Dysfunction on Brain Growth in Congenital Heart Disease.",
+      "language": "eng",
+      "dmproadmap_featured": "1",
+      "modified": "2023-08-07T18:20:01Z",
+      "dmproadmap_external_system_identifier": "https://doi.org/10.48321/D1R316",
       "contact": {
-        "mbox": "cortinau@jhmi.edu"
+        "name": "Andreas Muenchow",
+        "dmproadmap_affiliation": {
+          "name": "University of Delaware (udel.edu)",
+          "affiliation_id": {
+            "type": "ror",
+            "identifier": "https://ror.org/01sbq1a82"
+          }
+        },
+        "contact_id": {
+          "type": "orcid",
+          "identifier": "https://orcid.org/0000-0001-8360-5686"
+        },
+        "mbox": "muenchow@udel.edu"
       },
-      "contributor": [
+      "created": "2023-08-07T18:20:01Z",
+      "dmproadmap_related_identifiers": [
         {
-          "name": "Cynthia Ortinau"
-        }
-      ],
-      "description": "<p>The proposed project will involve human participants and will acquire demographic, clinical, fetal/placental magnetic resonance imaging (MRI), genomic, and placental tissue data from 225 pregnant women with a fetal diagnosis of CHD and 115 pregnant women with a healthy fetus.</p>",
-      "project": [
-        {
-          "funding": [
-            {
-              "name": "National Institutes of Health (NIH)",
-              "dmproadmap_funding_opportunity_id": 3
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "dmp": {
-      "dmp_id": {
-        "type": "doi",
-        "identifier": "https://doi.org/10.48321/D1X324"
-      },
-      "modified": "2023-04-21T21:48:36Z",
-      "title": "Accumbal adaptations that contribute to weight regain after weight loss.",
-      "contact": {
-        "mbox": "cortinau@jhmi.edu"
-      },
-      "contributor": [
-        {
-          "name": "Cynthia Ortinau"
-        }
-      ],
-      "description": "<p>Justo donec enim diam vulputate ut pharetra. Diam volutpat commodo sed egestas egestas fringilla phasellus faucibus scelerisque. Tellus elementum sagittis vitae et leo. Etiam tempor orci eu lobortis.</p>",
-      "project": [
-        {
-          "funding": [
-            {
-              "name": "National Institutes of Health (NIH)",
-              "dmproadmap_funding_opportunity_id": 4
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "dmp": {
-      "dmp_id": {
-        "type": "doi",
-        "identifier": "https://doi.org/10.48321/D1J31A"
-      },
-      "modified": "2022-10-15T21:48:36Z",
-      "title": "FAIR annotated dataset of stroke MRIs, CTs, and metadata.",
-      "contact": {
-        "mbox": "afaria@jhmi.edu"
-      },
-      "contributor": [
-        {
-          "name": "Andreia Faria"
+          "work_type": "output_management_plan",
+          "identifier": "https://dmphub.uc3stg.cdlib.net/narratives/d812bf3f540bb0bf.pdf",
+          "descriptor": "is_metadata_for",
+          "type": "url"
         },
         {
-          "name": "Brenda Johnson"
-        },
-        {
-          "name": "Johnny Hsu"
-        },
-        {
-          "name": "Xin Li"
+          "work_type": "output_management_plan",
+          "identifier": "https://dmphub.uc3stg.cdlib.net/narratives/e6bbc658fa61e020.pdf",
+          "descriptor": "is_metadata_for",
+          "type": "url"
         }
       ],
-      "description": "<p>Eu consequat ac felis donec et odio. Venenatis cras sed felis eget velit aliquet sagittis. Aliquet enim tortor at auctor urna nunc id. Facilisis volutpat est velit egestas dui id ornare arcu. Mattis ullamcorper velit sed ullamcorper morbi tincidunt.</p>",
-      "project": [
-        {
-          "funding": [
-            {
-              "name": "Federation of American Societies for Experimental Biology (faseb.org)",
-              "dmproadmap_funding_opportunity_id": 5
-            }
-          ]
-        }
-      ]
-    }
-  },
-  {
-    "dmp": {
       "dmp_id": {
         "type": "doi",
         "identifier": "https://doi.org/10.48321/D1R316"
       },
-      "modified": "2022-09-22T21:48:36Z",
-      "title": "Coastal Ocean Processes of North Greenland.",
-      "contact": {
-        "mbox": "amuenchow@jhmi.edu"
+      "ethical_issues_exist": "no",
+      "dmproadmap_links": {
+        "download": "https://dmptool-stg.cdlib.org/api/v2/plans/81369.pdf",
+        "get": "http://localhost:3000/api/v2/plans/81369"
       },
-      "contributor": [],
-      "description": "<p>I propose to analyze a unique 2014-18 ocean data set to investigate dynamics at this scale with mooring, survey, satellite, and modeling data. We hypothesize that canyon dynamics control across-shelf property and energy flux by the interaction of rotation, topography, and friction at tidal to interannual time scales.</p>",
-      "project": [
+      "ethical_issues_description": "",
+      "dataset": [
         {
-          "funding": [
-            {
-              "name": "National Science Foundation",
-              "dmproadmap_funding_opportunity_id": 6
-            }
+          "description": "No individual datasets have been defined for this DMP.",
+          "type": "dataset",
+          "title": "Generic dataset",
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
           ]
         }
-      ]
+      ],
+      "dmproadmap_privacy": "public",
+      "dmproadmap_template": {
+        "title": "Arctic Data Center: NSF Polar Programs",
+        "id": "192282898"
+      },
+      "description": "<p>I propose to analyze a unique 2014-18 ocean data set to investigate dynamics at this scale with mooring, survey, satellite, and modeling data. We hypothesize that canyon dynamics control across-shelf property and energy flux by the interaction of rotation, topography, and friction at tidal to interannual time scales.</p>",
+      "title": "Coastal Ocean Processes of North Greenland"
     }
   },
   {
     "dmp": {
+      "contributor": [
+        {
+          "name": "Nicoly Stefani Sevalho Carlucci",
+          "role": [
+            "http://credit.niso.org/contributor-roles/data-curation",
+            "http://credit.niso.org/contributor-roles/investigation"
+          ],
+          "mbox": "carluccinicoly@gmail.com",
+          "contributor_id": {
+            "type": "orcid",
+            "identifier": "https://orcid.org/0000-0002-6900-7441"
+          }
+        },
+        {
+          "name": "Débora Gusmão Melo",
+          "role": [
+            "http://credit.niso.org/contributor-roles/data-curation",
+            "http://credit.niso.org/contributor-roles/investigation",
+            "http://credit.niso.org/contributor-roles/project-administration"
+          ],
+          "mbox": "dgmelo@ufscar.br",
+          "contributor_id": {
+            "type": "orcid",
+            "identifier": "https://orcid.org/0000-0001-7005-3544"
+          }
+        }
+      ],
+      "ethical_issues_report": "https://plataformabrasil.saude.gov.br/",
+      "project": [
+        {
+          "start": "2020-11-01T00:00:00Z",
+          "description": "<p>Rett syndrome (RTT) is a rare genetic neurodevelopmental disease, with an estimated global incidence of 1: 10,000 to15,000 live births in the female sex. Clinically, it is characterized by normal development until 6 to 18 months that is followed by a period of developmental delay, subsequent rapid regression, a pseudo-stationary period, and slow deterioration. People with RTT will require specific care that will demand family support.</p>\r\n<p>In this study, we sought to assess the family quality of life (FQoL) of Brazilian families who have children with RTT, as well as to analyze some dimensions of the health-related quality of life (HRQoL) of people with RTT. Additionally, we sought to assess the correlation of FQoL with sociodemographic variables and the clinical and individual characteristics of people with RTT.</p>\r\n<p>This is a quantitative, cross-sectional, descriptive research developed with the formal support of the “Associação Brasileira de Síndrome de Rett” (ABRE-TE). All 400 families linked to ABRE-TE with children between the ages of 2 and 25 were invited to participate. Data was collected by completing four questionnaires: the “profile of the person with RTT” form, the “family sociodemographic profile” form, the Pediatric Quality of Life Inventory (PedsQL), and the Beach Center Family Quality of Life Scale (BCFQoLS). The PedsQL questionnaire assesses the quality of life linked to the health of children and adolescents and has 21 to 23 items that cover four dimensions: (1) physical, (2) emotional, (3) social, and (4) school. The social and school dimensions were not investigated in this study due to the characteristics of the sample and also because of the Covid-19 pandemic, which led to social isolation and suspension from school activities. Thus, only the physical and emotional dimensions of the PedsQL were considered. The BCFQoLS is a specific scale to assess the quality of life for families that have a member with a disability and consists of 25 items, divided into five domains: (1) parental care for children, (2) family interaction, (3) emotional well-being, (4) physical/material well-being, and (5) disability-related support.</p>\r\n<p>Ultimately, we intend that this study serves as a subsidy for building a comprehensive care line for patients with rare genetic diseases, such as RTT, in accordance with the National Policy for Comprehensive Care for People with Rare Diseases in the Brazilian Unified Health System.</p>",
+          "end": "2022-12-31T00:00:00Z",
+          "funding": [
+            {
+              "name": "São Paulo Research Foundation (fapesp.br)",
+              "dmproadmap_funding_opportunity_id": {
+                "type": "other",
+                "identifier": "20/09415-2"
+              },
+              "funder_id": {
+                "type": "fundref",
+                "identifier": "https://doi.org/10.13039/501100001807"
+              },
+              "funding_status": "granted",
+              "dmproadmap_funded_affiliations": [
+                {
+                  "name": "Universidade Federal de São Carlos (ufscar.br)",
+                  "affiliation_id": {
+                    "type": "ror",
+                    "identifier": "https://ror.org/00qdc6m37"
+                  }
+                }
+              ],
+              "grant_id": {
+                "type": "url",
+                "identifier": "https://bv.fapesp.br/pt/bolsas/193865/qualidade-de-vida-de-familias-e-individuos-que-tem-sindrome-de-rett-no-brasil/"
+              }
+            }
+          ],
+          "title": "Qualidade de vida de famílias e indivíduos que têm Síndrome de Rett no Brasil (Quality of life of families and individuals with Rett Syndrome in Brazil)"
+        }
+      ],
+      "language": "eng",
+      "dmproadmap_featured": "1",
+      "modified": "2023-08-07T19:54:29Z",
+      "dmproadmap_external_system_identifier": "https://doi.org/10.48321/D1930S",
+      "contact": {
+        "name": "Debora Gusmão Melo",
+        "dmproadmap_affiliation": {
+          "name": "Universidade Federal de São Carlos (ufscar.br)",
+          "affiliation_id": {
+            "type": "ror",
+            "identifier": "https://ror.org/00qdc6m37"
+          }
+        },
+        "contact_id": {
+          "type": "orcid",
+          "identifier": "https://orcid.org/0000-0001-7005-3544"
+        },
+        "mbox": "dgmelo@ufscar.br"
+      },
+      "created": "2023-08-07T19:54:29Z",
+      "dmproadmap_related_identifiers": [
+        {
+          "work_type": "output_management_plan",
+          "identifier": "https://dmphub.uc3stg.cdlib.net/narratives/2baa2778126a5967.pdf",
+          "descriptor": "is_metadata_for",
+          "type": "url"
+        },
+        {
+          "work_type": "output_management_plan",
+          "identifier": "https://dmphub.uc3stg.cdlib.net/narratives/7655065bdeb8f03d.pdf",
+          "descriptor": "is_metadata_for",
+          "type": "url"
+        }
+      ],
+      "dmp_id": {
+        "type": "doi",
+        "identifier": "https://doi.org/10.48321/D1930S"
+      },
+      "ethical_issues_exist": "yes",
+      "dmproadmap_links": {
+        "download": "https://dmptool-stg.cdlib.org/api/v2/plans/71994.pdf",
+        "get": "http://localhost:3000/api/v2/plans/71994"
+      },
+      "ethical_issues_description": "<p>This research was approved by the Human Research Ethics Committee at the S&atilde;o Carlos Federal University (process CAAE 34586620.5.0000.5504) and participation was authorized by signing an Informed Consent Form.</p>",
+      "dataset": [
+        {
+          "description": "No individual datasets have been defined for this DMP.",
+          "type": "dataset",
+          "title": "Generic dataset",
+          "keyword": ["Health sciences", "3.3 - Health sciences"]
+        }
+      ],
+      "dmproadmap_privacy": "public",
+      "dmproadmap_template": {
+        "title": "Digital Curation Centre (português)",
+        "id": "2021906450"
+      },
+      "description": "<p>Rett syndrome (RTT) is a rare genetic neurodevelopmental disease, with an estimated global incidence of 1: 10,000 to15,000 live births in the female sex. Clinically, it is characterized by normal development until 6 to 18 months that is followed by a period of developmental delay, subsequent rapid regression, a pseudo-stationary period, and slow deterioration. People with RTT will require specific care that will demand family support.</p>\r\n<p>In this study, we sought to assess the family quality of life (FQoL) of Brazilian families who have children with RTT, as well as to analyze some dimensions of the health-related quality of life (HRQoL) of people with RTT. Additionally, we sought to assess the correlation of FQoL with sociodemographic variables and the clinical and individual characteristics of people with RTT.</p>\r\n<p>This is a quantitative, cross-sectional, descriptive research developed with the formal support of the “Associação Brasileira de Síndrome de Rett” (ABRE-TE). All 400 families linked to ABRE-TE with children between the ages of 2 and 25 were invited to participate. Data was collected by completing four questionnaires: the “profile of the person with RTT” form, the “family sociodemographic profile” form, the Pediatric Quality of Life Inventory (PedsQL), and the Beach Center Family Quality of Life Scale (BCFQoLS). The PedsQL questionnaire assesses the quality of life linked to the health of children and adolescents and has 21 to 23 items that cover four dimensions: (1) physical, (2) emotional, (3) social, and (4) school. The social and school dimensions were not investigated in this study due to the characteristics of the sample and also because of the Covid-19 pandemic, which led to social isolation and suspension from school activities. Thus, only the physical and emotional dimensions of the PedsQL were considered. The BCFQoLS is a specific scale to assess the quality of life for families that have a member with a disability and consists of 25 items, divided into five domains: (1) parental care for children, (2) family interaction, (3) emotional well-being, (4) physical/material well-being, and (5) disability-related support.</p>\r\n<p>Ultimately, we intend that this study serves as a subsidy for building a comprehensive care line for patients with rare genetic diseases, such as RTT, in accordance with the National Policy for Comprehensive Care for People with Rare Diseases in the Brazilian Unified Health System.</p>",
+      "title": "Qualidade de vida de famílias e indivíduos que têm Síndrome de Rett no Brasil (Quality of life of families and individuals with Rett Syndrome in Brazil)"
+    }
+  },
+  {
+    "dmp": {
+      "ethical_issues_report": "",
+      "project": [
+        {
+          "start": "2023-01-01T00:00:00Z",
+          "description": "<p>O Projeto Inicial π descrito nesta proposta dedica-se à materiais para construção civil, com o objetivo de promover progressos científicos e tecnológicos integrados com iniciativas de ensino em concretos armados inovadores que sejam duráveis, seguros, sustentáveis e acessíveis. A abordagem multidisciplinar da proposta visa mobilizar e potencializar a interação entre metalurgistas, corrosionistas e engenheiros civis em prol de uma temática em comum.</p>\r\n<p>O aço e o concreto são considerados a “espinha dorsal” da infraestrutura moderna. São materiais estratégicos para a expansão e o desenvolvimento de qualquer sociedade, empregados separadamente ou em sinergia como concreto armado. A concepção do concreto armado foi um marco, já que propicia elementos estruturais com propriedades mecânicas satisfatórias à um preço competitivo. O desenvolvimento tecnológico de países com dimensões continentais e populosos depende necessariamente de infraestrutura durável e acessível, a qual é fortemente dependente de pesquisas e tecnologias em materiais cimentícios e aços. Além de extenso (8.510.295 km²) e populoso (~211 milhões de habitantes), o Brasil possui como principais atividades a construção civil e a siderurgia.</p>\r\n<p>O projeto de pesquisa é de cunho aplicado e inspirado no uso cuja relevância é internacional, porém com forte apelo nas demandas e necessidades brasileiras. Na frente de materiais cimentícios, alternativas de menor pegada de CO2 ao tradicional cimento Portland são o enfoque, tais como os cimentos curados por carbonatação, os cimentos álcali ativados, e os cimentos ternários a base de argila calcinada e calcário. Uma característica crucial de matrizes cimentícias Portland é sua capacidade de prover uma solução de poro capaz de induzir a passivação espontânea e efetiva de armaduras de aço carbono, e de mantê-las protegidas graças a cobertura de concreto, a qual assegura a vida útil projetada. Sabe-se que a solução de poro de novas matrizes cimentícias são mais corrosivas às armaduras tradicionais, sendo a passivação espontânea e efetiva do aço questionável. Portanto, na frente de armaduras inovadoras, o intuito é desenvolver aços inoxidáveis <em>lean</em> com propriedades mecânicas e eletroquímicas balanceadas a um preço competitivo, que sejam compatíveis com as matrizes cimentícias atuais mais sustentáveis. A missão é compatibilizar armaduras e matrizes cimentícias inovadoras através de um estudo holístico compreendendo diferentes ângulos: i) caracterização completa das matrizes cimentícias iniciais, e a evolução de fase, microestrutura e solução de poro ao longo da hidratação e exposição à ambientes agressivos [carbonatação e cloretos], ii) concepção, produção e caracterização de novas armaduras que sejam intermediárias entre as existentes em aço carbono e inoxidáveis, iii) capacidade intrínseca de passivação das novas armaduras em matrizes cimentícias inovadoras, iv) testes laboratoriais acelerados de durabilidade face a corrosão induzida por cloretos e carbonatação de matrizes cimentícias de menor pegada de CO2 reforçadas por armaduras inoxidáveis <em>lean</em>, e v) exposição de corpos de prova em região costeira e urbana para migração natural de cloretos e carbonatação, seguido de avaliação de desempenho.</p>\r\n<p>Buscar-se-á conciliar Ensino e Pesquisa, Ciência e Tecnologia, Inovação e Aplicação, todas interligadas, sempre com enfoque na formação e capacitação de alunos de graduação e de pós-graduação, além de transbordar o conhecimento e tecnologia para profissionais já inseridos no mercado de trabalho.</p>",
+          "end": "2027-12-31T00:00:00Z",
+          "funding": [
+            {
+              "name": "São Paulo Research Foundation (fapesp.br)",
+              "funder_id": {
+                "type": "fundref",
+                "identifier": "https://doi.org/10.13039/501100001807"
+              },
+              "funding_status": "planned",
+              "dmproadmap_funded_affiliations": [
+                {
+                  "name": "Universidade Federal de São Carlos (ufscar.br)",
+                  "affiliation_id": {
+                    "type": "ror",
+                    "identifier": "https://ror.org/00qdc6m37"
+                  }
+                }
+              ]
+            }
+          ],
+          "title": "Compatibilização entre aços/concretos inovadores: Uma abordagem interdisciplinar e multiescala"
+        }
+      ],
+      "language": "eng",
+      "dmproadmap_featured": "1",
+      "modified": "2023-08-07T18:52:38Z",
+      "dmproadmap_external_system_identifier": "https://doi.org/10.48321/D10601",
+      "contact": {
+        "name": "Guilherme  Koga",
+        "dmproadmap_affiliation": {
+          "name": "Universidade Federal de São Carlos (ufscar.br)",
+          "affiliation_id": {
+            "type": "ror",
+            "identifier": "https://ror.org/00qdc6m37"
+          }
+        },
+        "contact_id": {
+          "type": "orcid",
+          "identifier": "https://orcid.org/0000-0003-0792-1139"
+        },
+        "mbox": "gykoga@ufscar.br"
+      },
+      "created": "2023-08-07T18:52:38Z",
+      "dmproadmap_related_identifiers": [
+        {
+          "work_type": "output_management_plan",
+          "identifier": "https://dmphub.uc3stg.cdlib.net/narratives/3ee0b507e04fba4d.pdf",
+          "descriptor": "is_metadata_for",
+          "type": "url"
+        },
+        {
+          "work_type": "output_management_plan",
+          "identifier": "https://dmphub.uc3stg.cdlib.net/narratives/3978fb4f4e0dcbde.pdf",
+          "descriptor": "is_metadata_for",
+          "type": "url"
+        }
+      ],
       "dmp_id": {
         "type": "doi",
         "identifier": "https://doi.org/10.48321/D10601"
       },
-      "modified": "2022-09-22T21:48:36Z",
-      "title": "Compatibilização entre aços/concretos inovadores: Uma abordagem interdisciplinar e multiescala.",
-      "contact": {
-        "mbox": "amuenchow@jhmi.edu"
+      "ethical_issues_exist": "no",
+      "dmproadmap_links": {
+        "download": "https://dmptool-stg.cdlib.org/api/v2/plans/76318.pdf",
+        "get": "http://localhost:3000/api/v2/plans/76318"
       },
-      "contributor": [],
-      "description": "<p>O Projeto Inicial π descrito nesta proposta dedica-se à materiais para construção civil, com o objetivo de promover progressos científicos e tecnológicos integrados com iniciativas de ensino em concretos armados inovadores que sejam duráveis, seguros, sustentáveis e acessíveis. </p>",
+      "ethical_issues_description": "",
+      "dataset": [
+        {
+          "description": "No individual datasets have been defined for this DMP.",
+          "type": "dataset",
+          "title": "Generic dataset",
+          "keyword": ["Materials engineering", "2.5 - Materials engineering"]
+        }
+      ],
+      "dmproadmap_privacy": "public",
+      "dmproadmap_template": {
+        "title": "Digital Curation Centre (português)",
+        "id": "2021906450"
+      },
+      "description": "<p>O Projeto Inicial π descrito nesta proposta dedica-se à materiais para construção civil, com o objetivo de promover progressos científicos e tecnológicos integrados com iniciativas de ensino em concretos armados inovadores que sejam duráveis, seguros, sustentáveis e acessíveis. A abordagem multidisciplinar da proposta visa mobilizar e potencializar a interação entre metalurgistas, corrosionistas e engenheiros civis em prol de uma temática em comum.</p>\r\n<p>O aço e o concreto são considerados a “espinha dorsal” da infraestrutura moderna. São materiais estratégicos para a expansão e o desenvolvimento de qualquer sociedade, empregados separadamente ou em sinergia como concreto armado. A concepção do concreto armado foi um marco, já que propicia elementos estruturais com propriedades mecânicas satisfatórias à um preço competitivo. O desenvolvimento tecnológico de países com dimensões continentais e populosos depende necessariamente de infraestrutura durável e acessível, a qual é fortemente dependente de pesquisas e tecnologias em materiais cimentícios e aços. Além de extenso (8.510.295 km²) e populoso (~211 milhões de habitantes), o Brasil possui como principais atividades a construção civil e a siderurgia.</p>\r\n<p>O projeto de pesquisa é de cunho aplicado e inspirado no uso cuja relevância é internacional, porém com forte apelo nas demandas e necessidades brasileiras. Na frente de materiais cimentícios, alternativas de menor pegada de CO2 ao tradicional cimento Portland são o enfoque, tais como os cimentos curados por carbonatação, os cimentos álcali ativados, e os cimentos ternários a base de argila calcinada e calcário. Uma característica crucial de matrizes cimentícias Portland é sua capacidade de prover uma solução de poro capaz de induzir a passivação espontânea e efetiva de armaduras de aço carbono, e de mantê-las protegidas graças a cobertura de concreto, a qual assegura a vida útil projetada. Sabe-se que a solução de poro de novas matrizes cimentícias são mais corrosivas às armaduras tradicionais, sendo a passivação espontânea e efetiva do aço questionável. Portanto, na frente de armaduras inovadoras, o intuito é desenvolver aços inoxidáveis <em>lean</em> com propriedades mecânicas e eletroquímicas balanceadas a um preço competitivo, que sejam compatíveis com as matrizes cimentícias atuais mais sustentáveis. A missão é compatibilizar armaduras e matrizes cimentícias inovadoras através de um estudo holístico compreendendo diferentes ângulos: i) caracterização completa das matrizes cimentícias iniciais, e a evolução de fase, microestrutura e solução de poro ao longo da hidratação e exposição à ambientes agressivos [carbonatação e cloretos], ii) concepção, produção e caracterização de novas armaduras que sejam intermediárias entre as existentes em aço carbono e inoxidáveis, iii) capacidade intrínseca de passivação das novas armaduras em matrizes cimentícias inovadoras, iv) testes laboratoriais acelerados de durabilidade face a corrosão induzida por cloretos e carbonatação de matrizes cimentícias de menor pegada de CO2 reforçadas por armaduras inoxidáveis <em>lean</em>, e v) exposição de corpos de prova em região costeira e urbana para migração natural de cloretos e carbonatação, seguido de avaliação de desempenho.</p>\r\n<p>Buscar-se-á conciliar Ensino e Pesquisa, Ciência e Tecnologia, Inovação e Aplicação, todas interligadas, sempre com enfoque na formação e capacitação de alunos de graduação e de pós-graduação, além de transbordar o conhecimento e tecnologia para profissionais já inseridos no mercado de trabalho.</p>",
+      "title": "Compatibilização entre aços/concretos inovadores: Uma abordagem interdisciplinar e multiescala"
+    }
+  },
+  {
+    "dmp": {
+      "contributor": [
+        {
+          "name": "Xin Li",
+          "role": ["http://credit.niso.org/contributor-roles/data-curation"],
+          "dmproadmap_affiliation": {
+            "name": "Johns Hopkins University (jhu.edu)",
+            "affiliation_id": {
+              "type": "ror",
+              "identifier": "https://ror.org/00za53h95"
+            }
+          },
+          "mbox": "xli16@jhmi.edu"
+        },
+        {
+          "name": "Johnny Hsu",
+          "role": ["http://credit.niso.org/contributor-roles/data-curation"],
+          "dmproadmap_affiliation": {
+            "name": "Johns Hopkins University (jhu.edu)",
+            "affiliation_id": {
+              "type": "ror",
+              "identifier": "https://ror.org/00za53h95"
+            }
+          },
+          "mbox": "jhsu7@jhmi.edu"
+        },
+        {
+          "name": "Brenda Johnson",
+          "role": ["http://credit.niso.org/contributor-roles/data-curation"],
+          "dmproadmap_affiliation": {
+            "name": "Johns Hopkins University (jhu.edu)",
+            "affiliation_id": {
+              "type": "ror",
+              "identifier": "https://ror.org/00za53h95"
+            }
+          },
+          "mbox": "bjohns75@jhmi.edu"
+        }
+      ],
+      "ethical_issues_report": "",
       "project": [
         {
+          "start": "2022-10-03T00:00:00Z",
+          "description": "<p>To extract meaningful and reproducible models of brain function from stroke images, for both clinical and research proposes, is a daunting task severely hindered by the great variability of lesion frequency and patterns. Large datasets are therefore imperative, as well as fully automated image post-processing tools to analyze them. The development of such tools, particularly with artificial intelligence, is highly dependent on the availability of large datasets to model training and testing. We will create and share a public dataset of 4,000 multimodal clinical MRIs and CTs of patients with acute and early subacute stroke, with manual lesion segmentation, and metadata. The dataset provides high quality, large scale, human-supervised knowledge to feed artificial intelligence models and enable further development of tools to automate several tasks that currently rely on human labor, such as lesion segmentation, labeling, calculation of disease-relevant scores. It also represents a valuable training and testing resource for translational research relating lesion features to risk factors, brain functions and patients’ outcomes.</p>",
+          "end": "2027-10-01T00:00:00Z",
           "funding": [
             {
-              "name": "São Paulo Research Foundation (fapesp.br)",
-              "dmproadmap_funding_opportunity_id": 7
+              "name": "Federation of American Societies for Experimental Biology (faseb.org)",
+              "funder_id": {
+                "type": "ror",
+                "identifier": "https://ror.org/01mh1c318"
+              },
+              "funding_status": "planned",
+              "dmproadmap_funded_affiliations": [
+                {
+                  "name": "Johns Hopkins University (jhu.edu)",
+                  "affiliation_id": {
+                    "type": "ror",
+                    "identifier": "https://ror.org/00za53h95"
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "title": "FAIR annotated dataset of stroke MRIs, CTs, and metadata"
+        }
+      ],
+      "language": "eng",
+      "dmproadmap_featured": "1",
+      "modified": "2023-08-14T21:48:36Z",
+      "dmproadmap_external_system_identifier": "https://doi.org/10.48321/D1J31B",
+      "contact": {
+        "name": "Andreia Faria",
+        "dmproadmap_affiliation": {
+          "name": "Johns Hopkins University (jhu.edu)",
+          "affiliation_id": {
+            "type": "ror",
+            "identifier": "https://ror.org/00za53h95"
+          }
+        },
+        "contact_id": {
+          "type": "orcid",
+          "identifier": "https://orcid.org/0000-0002-1673-002X"
+        },
+        "mbox": "afaria1@jhmi.edu"
+      },
+      "created": "2022-10-14T17:28:17Z",
+      "dmproadmap_related_identifiers": [
+        {
+          "work_type": "output_management_plan",
+          "identifier": "https://dmphub.uc3stg.cdlib.net/narratives/59bc48f1eef64f23.pdf",
+          "descriptor": "is_metadata_for",
+          "type": "url"
+        },
+        {
+          "work_type": "output_management_plan",
+          "identifier": "https://dmphub.uc3stg.cdlib.net/narratives/993243e943f146cf.pdf",
+          "descriptor": "is_metadata_for",
+          "type": "url"
+        }
+      ],
+      "dmp_id": {
+        "type": "doi",
+        "identifier": "https://doi.org/10.48321/D1J31B"
+      },
+      "ethical_issues_exist": "no",
+      "dmproadmap_links": {
+        "download": "https://dmptool-stg.cdlib.org/api/v2/plans/83986.pdf",
+        "get": "http://localhost:3000/api/v2/plans/83986"
+      },
+      "ethical_issues_description": "",
+      "dataset": [
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3941" },
+          "description": "<p>A dataset with 2,888 annotated multimodal clinical MRIs and metadata, deposited in ICPSR (https://doi.org/10.3886/ICPSR38464). The public release, by curation completion, is expected by the end of 2022</p>",
+          "type": "dataset",
+          "title": "ANNOTATED CLINICAL MRIS AND LINKED METADATA OF PATIENTS WITH ACUTE STROKE, BALTIMORE, MARYLAND, 2009-2019",
+          "distribution": [
+            {
+              "host": {
+                "description": "ICPSR maintains a data archive of more than 250,000 files of research in the social and behavioral sciences. It hosts 21 specialized collections of data in education, aging, criminal justice, substance abuse, terrorism, and other fields. ICPSR advances and expands social and behavioral research, acting as a global leader in data stewardship and providing rich data resources and responsive educational opportunities for present and future generations.",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "r3d100010255"
+                },
+                "title": "Inter-university Consortium for Political and Social Research",
+                "url": "https://www.icpsr.umich.edu/"
+              },
+              "title": "Anticipated distribution for ANNOTATED CLINICAL MRIS AND LINKED METADATA OF PATIENTS WITH ACUTE STROKE, BALTIMORE, MARYLAND, 2009-2019",
+              "data_access": "shared",
+              "byte_size": "0.19327352832e12"
+            }
+          ],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2022-12-05T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3942" },
+          "description": "<p>This a free, public, user-friend tool developed with this dataset, to automatically detect, segment and quantify acute ischemic strokes. It converts images in CDO (computable data objects) enabling direct AI modeling. It runs in real time, in regular local computers, with a single command line, facilitating the use by non-experts and researchers in diverse fields and enabling easy reproducible and replicable research. Recently added features are the output of radiological reports and the stroke score ASPECTS. Currently this resource has more than 400 downloads in Nitrc. Accessible at https://www.nitrc.org/projects/ads</p>",
+          "type": "software",
+          "title": "ACUTE-STROKE DETECTION AND SEGMENTATION",
+          "distribution": [
+            {
+              "title": "Anticipated distribution for ACUTE-STROKE DETECTION AND SEGMENTATION",
+              "data_access": "open",
+              "host": {
+                "description": "Neuroimaging Tools and Resources Collaboratory (NITRC) is currently a free one-stop-shop environment for science researchers that need resources such as neuroimaging analysis software, publicly available data sets, and computing power. Since its debut in 2007, NITRC has helped the neuroscience community to use software and data produced from research that, before NITRC, was routinely lost or disregarded, to make further discoveries. NITRC provides free access to data and enables pay-per-use cloud-based access to unlimited computing power, enabling worldwide scientific collaboration with minimal startup and cost. With NITRC and its components—the Resources Registry (NITRC-R), Image Repository (NITRC-IR), and Computational Environment (NITRC-CE)—a researcher can obtain pilot or proof-of-concept data to validate a hypothesis for a few dollars.",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100011515"
+                },
+                "title": "NITRC",
+                "url": "https://www.nitrc.org/"
+              }
+            }
+          ],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2021-05-05T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3943" },
+          "description": "<p>This is the first digital 3D atlas of brain arterial territories, developed with this dataset, currently with more than 700 dowloads all around the world. Accessible at https://www.nitrc.org/projects/arterialatlas</p>",
+          "type": "interactive_resource",
+          "title": "ARTERIAL ATLAS",
+          "distribution": [
+            {
+              "title": "Anticipated distribution for ARTERIAL ATLAS",
+              "data_access": "open",
+              "host": {
+                "description": "Neuroimaging Tools and Resources Collaboratory (NITRC) is currently a free one-stop-shop environment for science researchers that need resources such as neuroimaging analysis software, publicly available data sets, and computing power. Since its debut in 2007, NITRC has helped the neuroscience community to use software and data produced from research that, before NITRC, was routinely lost or disregarded, to make further discoveries. NITRC provides free access to data and enables pay-per-use cloud-based access to unlimited computing power, enabling worldwide scientific collaboration with minimal startup and cost. With NITRC and its components—the Resources Registry (NITRC-R), Image Repository (NITRC-IR), and Computational Environment (NITRC-CE)—a researcher can obtain pilot or proof-of-concept data to validate a hypothesis for a few dollars.",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100011515"
+                },
+                "title": "NITRC",
+                "url": "https://www.nitrc.org/"
+              }
+            }
+          ],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2021-05-05T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3944" },
+          "description": "<p>Description of the StrokeFAIR dataset. Pre-print available in Research Square https://www.researchsquare.com/article/rs-1705779/v1. Submitted to Nature Scientific Data.</p>",
+          "type": "data_paper",
+          "title": "A LARGE PUBLIC DATASET OF ANNOTATED CLINICAL MRIS OF PATIENTS WITH ACUTE STROKE AND LINKED METADATA",
+          "distribution": [],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2023-01-14T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3946" },
+          "description": "<p>Liu, CF., Hsu, J., Xu, X. et al. Deep learning-based detection and segmentation of diffusion abnormalities in acute ischemic stroke. Commun Med 1, 61 (2021). https://doi.org/10.1038/s43856-021-00062-8. https://www.nature.com/articles/s43856-021-00062-8. This paper describes a tool, created with this dataset, for automated detection, segmentation, and quantification of acute strokes. It outputs the 3D mask of the stroke core and the ratio of brain regions affected by the stroke in two parcelation schemes (classical anatomy and arterial territories). This toll is free and publicly available, runs in local computers, is user-friendly to non-experts and people in diverse field, facilitating reproducible and replicable research</p>",
+          "type": "data_paper",
+          "title": "DEEP LEARNING-BASED DETECTION AND SEGMENTATION OF DIFFUSION ABNORMALITIES IN ACUTE ISCHEMIC STROKE",
+          "distribution": [],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2021-12-06T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3947" },
+          "description": "<p>Liu CF, Hsu J, Xu X, Kim NG, Sheppard SM, Meier EL, Miller M, Hillis AE, Faria AV. Digital 3D Brain MRI Arterial Territories Atlas. https://www.biorxiv.org/content/10.1101/2021.05.03.442478v2.full.pdf. In Press in Sci Data. This paper describes the fisrt digital 3D atlas of brian arterial territories, created with this dataset</p>",
+          "type": "data_paper",
+          "title": "DIGITAL 3D BRAIN MRI ARTERIAL TERRITORIES ATLAS",
+          "distribution": [],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2022-12-02T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3948" },
+          "description": "<p>Faria, A., Liu, C. F., Li, A., Kim, G., Miller, M., &amp; Hillis, A. (2022). Automatic Comprehensive Aspects Reports in Clinical Acute Stroke MRIs. Pre-print in Research Square. This paper describes our software to calculate ASPCTS in patients with ischemic strokes, using this dataset. Under revision in Sci Reports</p>",
+          "type": "data_paper",
+          "title": "AUTOMATIC COMPREHENSIVE ASPECTS REPORTS IN CLINICAL ACUTE STROKE MRIS",
+          "distribution": [],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2022-12-15T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3949" },
+          "description": "<p>Liu, C. F., Zhao, Y., Miller, M. I., Hillis, A. E., &amp; Faria, A. (2022). Automatic comprehensive radiological reports for clinical acute stroke MRIs. Available at Research Square. This manuscript describes our free and public software to generate automated reports, developed with this dataset. Under revision in Nat Comm Med</p>",
+          "type": "data_paper",
+          "title": "AUTOMATIC COMPREHENSIVE RADIOLOGICAL REPORTS FOR CLINICAL ACUTE STROKE MRIS",
+          "distribution": [],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2022-12-14T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3950" },
+          "description": "<p>This tool will detect, segment and quantify perfusion deficits in perfusion-weighted images. It will output not only volumetric information but also the 3D masks of perfusion deficits, to be used on clinical research, particurly to correlate with function or to predcit outcomes</p>",
+          "type": "software",
+          "title": "DETECTION AND SEGMENTATION OF PERFUSION DEFICITS IN CLINICAL ACUTE STROKE MRIS",
+          "distribution": [
+            {
+              "title": "Anticipated distribution for DETECTION AND SEGMENTATION OF PERFUSION DEFICITS IN CLINICAL ACUTE STROKE MRIS",
+              "data_access": "open",
+              "host": {
+                "description": "Neuroimaging Tools and Resources Collaboratory (NITRC) is currently a free one-stop-shop environment for science researchers that need resources such as neuroimaging analysis software, publicly available data sets, and computing power. Since its debut in 2007, NITRC has helped the neuroscience community to use software and data produced from research that, before NITRC, was routinely lost or disregarded, to make further discoveries. NITRC provides free access to data and enables pay-per-use cloud-based access to unlimited computing power, enabling worldwide scientific collaboration with minimal startup and cost. With NITRC and its components—the Resources Registry (NITRC-R), Image Repository (NITRC-IR), and Computational Environment (NITRC-CE)—a researcher can obtain pilot or proof-of-concept data to validate a hypothesis for a few dollars.",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100011515"
+                },
+                "title": "NITRC",
+                "url": "https://www.nitrc.org/"
+              }
+            }
+          ],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2021-05-21T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3951" },
+          "description": "<p>This tool will automatically calculate time to stroke onset based on brian MRIs. The time to onset is a crucial informaiton for acute treatment, but is unknown in about 25% of patients with ischemic stroke, which prevents them to be treated. As our other tools, this will be free and publicly available, and accessible to expert and on-expert users</p>",
+          "type": "software",
+          "title": "MRI-BASED PREDICTION OF TIME TO STROKE ONSET",
+          "distribution": [
+            {
+              "title": "Anticipated distribution for MRI-BASED PREDICTION OF TIME TO STROKE ONSET",
+              "data_access": "open",
+              "host": {
+                "description": "Neuroimaging Tools and Resources Collaboratory (NITRC) is currently a free one-stop-shop environment for science researchers that need resources such as neuroimaging analysis software, publicly available data sets, and computing power. Since its debut in 2007, NITRC has helped the neuroscience community to use software and data produced from research that, before NITRC, was routinely lost or disregarded, to make further discoveries. NITRC provides free access to data and enables pay-per-use cloud-based access to unlimited computing power, enabling worldwide scientific collaboration with minimal startup and cost. With NITRC and its components—the Resources Registry (NITRC-R), Image Repository (NITRC-IR), and Computational Environment (NITRC-CE)—a researcher can obtain pilot or proof-of-concept data to validate a hypothesis for a few dollars.",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100011515"
+                },
+                "title": "NITRC",
+                "url": "https://www.nitrc.org/"
+              }
+            }
+          ],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2023-06-14T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3952" },
+          "description": "<p>Using our \"ADS\" system already in place, this tool will automatically calculate transform the original data in a computational data object and search in our dataset (which will be then a library of thousands of computational data objects) for the clusterof similar cases. Then, it will output frequence reports of relevant information in this cluster, for instance, 90-days follow up scores and response to acute treatment. It will also be useful to identify specific risk-factors, as it is linked to the metadata. This will enable population stratification and personalized medical approach. As our other tools, it will be free and publicly available, and accessible to expert and on-expert users</p>",
+          "type": "software",
+          "title": "CONTENT-BASED IMAGE RETRIEVAL (CBIR) FOR ACUTE STROKE MRIs",
+          "distribution": [
+            {
+              "title": "Anticipated distribution for CONTENT-BASED IMAGE RETRIEVAL (CBIR) FOR ACUTE STROKE MRIs",
+              "data_access": "open",
+              "host": {
+                "description": "Neuroimaging Tools and Resources Collaboratory (NITRC) is currently a free one-stop-shop environment for science researchers that need resources such as neuroimaging analysis software, publicly available data sets, and computing power. Since its debut in 2007, NITRC has helped the neuroscience community to use software and data produced from research that, before NITRC, was routinely lost or disregarded, to make further discoveries. NITRC provides free access to data and enables pay-per-use cloud-based access to unlimited computing power, enabling worldwide scientific collaboration with minimal startup and cost. With NITRC and its components—the Resources Registry (NITRC-R), Image Repository (NITRC-IR), and Computational Environment (NITRC-CE)—a researcher can obtain pilot or proof-of-concept data to validate a hypothesis for a few dollars.",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100011515"
+                },
+                "title": "NITRC",
+                "url": "https://www.nitrc.org/"
+              }
+            }
+          ],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2023-09-14T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3953" },
+          "description": "<p>By cost reasons, computed tomography (CT) is still the first image acquired for most of patients with acute stroke. However, if it less sensitive than MRIs in the hyper acute stage, which leads to misdiagnosis or underestimation of the stroke volume. Using our dataset, we will create an artificial intelligence tool (likely based on deep-learning) to estimate the volume of the ischemic stroke in CTs, based on the information provided by the diffusion weighted images. By submitting a CT showing a questionable stroke core, the user will receive what the MRI would look-like and the predicted area and volume of the stroke core in the CT. As our other tools, this will be free and publicly available, and accessible to expert and on-expert users.</p>",
+          "type": "software",
+          "title": "SYNTHETIC CTs FOR QUANTIFICATION OF ACUTE ISCHEMIC STROKE BASED ON DIFFUSION MRISSYNTHETIC CTs FOR QUANTIFICATION OF ACUTE ISCHEMIC STROKE BASED ON DIFFUSION MRIS",
+          "distribution": [
+            {
+              "title": "Anticipated distribution for SYNTHETIC CTs FOR QUANTIFICATION OF ACUTE ISCHEMIC STROKE BASED ON DIFFUSION MRISSYNTHETIC CTs FOR QUANTIFICATION OF ACUTE ISCHEMIC STROKE BASED ON DIFFUSION MRIS",
+              "data_access": "open",
+              "host": {
+                "description": "Neuroimaging Tools and Resources Collaboratory (NITRC) is currently a free one-stop-shop environment for science researchers that need resources such as neuroimaging analysis software, publicly available data sets, and computing power. Since its debut in 2007, NITRC has helped the neuroscience community to use software and data produced from research that, before NITRC, was routinely lost or disregarded, to make further discoveries. NITRC provides free access to data and enables pay-per-use cloud-based access to unlimited computing power, enabling worldwide scientific collaboration with minimal startup and cost. With NITRC and its components—the Resources Registry (NITRC-R), Image Repository (NITRC-IR), and Computational Environment (NITRC-CE)—a researcher can obtain pilot or proof-of-concept data to validate a hypothesis for a few dollars.",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100011515"
+                },
+                "title": "NITRC",
+                "url": "https://www.nitrc.org/"
+              }
+            }
+          ],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2023-12-14T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3954" },
+          "description": "<p>This paper is an analysis of image and metadata in our database to identify the factors that most influence the calculation of NIHSS scores in patients with acute stroke, an index of stroke severity that is relevant for treatment and outcome prediction.</p>",
+          "type": "data_paper",
+          "title": "IMAGE AND NON-IMAGE DETERTMINANTS OF NIHSS IN ACUTE ISCHEMIC STROKES",
+          "distribution": [],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2023-06-14T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3955" },
+          "description": "<p>Stein, C., Bunker, L., Chu, B., Leigh, R., Faria, A., &amp; Hillis, A. E. (2022). Various tests of left neglect are associated with distinct territories of hypoperfusion in acute stroke. Brain communications, 4(2), fcac064. This paper exemplifies the use of our dataset, and of the tools for automated analysis derived from it, to stablish anatomic-functional correlation in stroke patients.</p>",
+          "type": "data_paper",
+          "title": "VARIOUS TESTS OF LEFT NEGLECT ARE ASSOCIATED WITH DISTINCT TERRITORIES OF HYPOPERFUSION IN ACUTE STROKE",
+          "distribution": [],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2022-08-14T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3956" },
+          "description": "<p>https://www.frontiersin.org/articles/10.3389/fneur.2022.912782/full. Using this dataset, we found a hemisphere-related bias in a largely used clinical indice for strokes, the NIHSS.</p>",
+          "type": "data_paper",
+          "title": "LEFT HEMISPHERE BIAS OF NIH STROKE SCALE IS MOST SEVERE FOR MIDDLE CEREBRAL ARTERY STROKES",
+          "distribution": [],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2022-08-14T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3957" },
+          "description": "<p>Kim, G., Vitti, E., Stockbridge, M. D., Hillis, A. E., &amp; Faria, A. V. (2021). Association of inferior division MCA stroke location with populations with atrial fibrillation incidence. Available at https://www.medrxiv.org/content/10.1101/2021.12.06.21267371v1. This paper describes a demographic association of the stroke location in our dataset. Under revision in Heliyon</p>",
+          "type": "data_paper",
+          "title": "ASSOCIATION OF INFERIOR DIVISION MCA STROKE LOCATION WITH POPULATIONS WITH ATRIAL FIBRILLATION INCIDENCE",
+          "distribution": [],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2022-12-14T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3958" },
+          "description": "<p>We describe the association between metabolic profile and an MRI indice of blood perfusion, found in an external small dataset and confirmed in our dataset. This proves its value as an external test set for replication studies. The abstract will be presetned in the ANA Oct 2022, Chicago</p>",
+          "type": "data_paper",
+          "title": "POOR GLYCEMIC CONTROL IS ASSOCIATED WITH WORSE BLOOD-BRAIN BARRIER DISRUPTION IN ISCHEMIC STROKE PATIENTS",
+          "distribution": [],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2022-10-28T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3959" },
+          "description": "<p>This manuscript describes an association between metabolic profile and an MRI indice of blood perfusion, found in an external small dataset and confirmed in our dataset. This proves its value as an external test set for replication studies. The abstract will be presented in the WSC Oct 2022, Singapore</p>",
+          "type": "data_paper",
+          "title": "WORSE BLOOD-BRAIN BARRIER DISRUPTION IN ISCHEMIC STROKE IS ASSOCIATED WITH LONGER HOSPITAL LENGTH OF STAY",
+          "distribution": [],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2022-10-28T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3960" },
+          "description": "<p>https://www.nitrc.org/projects/ads. The second version of \"ADS\" (ADSv1) additionally offers imaging mapping to different standard spaces, the generation of automated radiological reports. It outputs the feature vectors used and comprehensive reports of the classification results. It runs in real time, in regular local computers, with a single command line, facilitating the use by non-experts and researchers in diverse fields and enabling easy reproducible and replicable research.</p>",
+          "type": "software",
+          "title": "AUTOMATIC RADIOLOGICAL REPORTS FOR ACUTE ISCHEMIC STROKES",
+          "distribution": [
+            {
+              "title": "Anticipated distribution for AUTOMATIC RADIOLOGICAL REPORTS FOR ACUTE ISCHEMIC STROKES",
+              "data_access": "open",
+              "host": {
+                "description": "Neuroimaging Tools and Resources Collaboratory (NITRC) is currently a free one-stop-shop environment for science researchers that need resources such as neuroimaging analysis software, publicly available data sets, and computing power. Since its debut in 2007, NITRC has helped the neuroscience community to use software and data produced from research that, before NITRC, was routinely lost or disregarded, to make further discoveries. NITRC provides free access to data and enables pay-per-use cloud-based access to unlimited computing power, enabling worldwide scientific collaboration with minimal startup and cost. With NITRC and its components—the Resources Registry (NITRC-R), Image Repository (NITRC-IR), and Computational Environment (NITRC-CE)—a researcher can obtain pilot or proof-of-concept data to validate a hypothesis for a few dollars.",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100011515"
+                },
+                "title": "NITRC",
+                "url": "https://www.nitrc.org/"
+              }
+            }
+          ],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2022-08-12T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "3961" },
+          "description": "<p>https://www.nitrc.org/projects/ads. The second version of \"ADS\" (ADSv1) additionally offers the calculation of \"ASPECTS\" for brain MRIs, which is an important index for acute treatment and prognosis. It outputs the feature vectors used and comprehensive reports of the classification results. It runs in real time, in regular local computers, with a single command line, facilitating the use by non-experts and researchers in diverse fields and enabling easy reproducible and replicable research.</p>",
+          "type": "software",
+          "title": "AUTOMATIC CALCULATION OF ASPECTS FOR ACUTE ISCHEMIC STROKES IN BRIAN MRIs",
+          "distribution": [
+            {
+              "title": "Anticipated distribution for AUTOMATIC CALCULATION OF ASPECTS FOR ACUTE ISCHEMIC STROKES IN BRIAN MRIs",
+              "data_access": "open",
+              "host": {
+                "description": "Neuroimaging Tools and Resources Collaboratory (NITRC) is currently a free one-stop-shop environment for science researchers that need resources such as neuroimaging analysis software, publicly available data sets, and computing power. Since its debut in 2007, NITRC has helped the neuroscience community to use software and data produced from research that, before NITRC, was routinely lost or disregarded, to make further discoveries. NITRC provides free access to data and enables pay-per-use cloud-based access to unlimited computing power, enabling worldwide scientific collaboration with minimal startup and cost. With NITRC and its components—the Resources Registry (NITRC-R), Image Repository (NITRC-IR), and Computational Environment (NITRC-CE)—a researcher can obtain pilot or proof-of-concept data to validate a hypothesis for a few dollars.",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100011515"
+                },
+                "title": "NITRC",
+                "url": "https://www.nitrc.org/"
+              }
+            }
+          ],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2022-08-12T00:00:00Z",
+          "keyword": ["Health sciences", "3.3 - Health sciences"],
+          "data_quality_assurance": [""]
+        }
+      ],
+      "dmproadmap_privacy": "public",
+      "dmproadmap_template": {
+        "title": "DataWorks! Data Management and Sharing Plan Challenge",
+        "id": "1860441056"
+      },
+      "description": "<p>To extract meaningful and reproducible models of brain function from stroke images, for both clinical and research proposes, is a daunting task severely hindered by the great variability of lesion frequency and patterns. Large datasets are therefore imperative, as well as fully automated image post-processing tools to analyze them. The development of such tools, particularly with artificial intelligence, is highly dependent on the availability of large datasets to model training and testing. We will create and share a public dataset of 4,000 multimodal clinical MRIs and CTs of patients with acute and early subacute stroke, with manual lesion segmentation, and metadata. The dataset provides high quality, large scale, human-supervised knowledge to feed artificial intelligence models and enable further development of tools to automate several tasks that currently rely on human labor, such as lesion segmentation, labeling, calculation of disease-relevant scores. It also represents a valuable training and testing resource for translational research relating lesion features to risk factors, brain functions and patients’ outcomes.</p>",
+      "title": "FAIR annotated dataset of stroke MRIs, CTs, and metadata",
+      "dmphub_versions": [
+        {
+          "timestamp": "2023-08-14T21:48:36Z",
+          "url": "https://dmphub.uc3stg.cdlib.net/dmps/doi.org/10.48321/D1J31B"
+        },
+        {
+          "timestamp": "2023-08-07T17:17:55Z",
+          "url": "https://dmphub.uc3stg.cdlib.net/dmps/doi.org/10.48321/D1J31B?version=2023-08-07T17:17:55Z"
         }
       ]
     }
   },
   {
     "dmp": {
-      "dmp_id": {
-        "type": "doi",
-        "identifier": "https://doi.org/10.48321/D1BK5T"
-      },
-      "modified": "2023-04-21T21:48:36Z",
-      "title": "Using natural language processing to determine predictors of healthy diet and physical activity behavior change in ovarian cancer survivors",
-      "contact": {
-        "mbox": "ddiaz@jhmi.edu"
-      },
       "contributor": [
         {
-          "name": "Damian Yukio Romero Diaz"
+          "name": "Brett Johnson",
+          "role": [
+            "http://credit.niso.org/contributor-roles/data-curation",
+            "http://credit.niso.org/contributor-roles/investigation"
+          ],
+          "dmproadmap_affiliation": {
+            "name": "Hakai Institute",
+            "affiliation_id": {
+              "type": "ror",
+              "identifier": "https://ror.org/0029jxk29"
+            }
+          },
+          "mbox": "Brett.Johnson@hakai.org",
+          "contributor_id": {
+            "type": "orcid",
+            "identifier": "https://orcid.org/0000-0001-9317-0364"
+          }
         },
         {
-          "name": "Hagan Franks"
+          "name": "Brian Hunt",
+          "role": ["http://credit.niso.org/contributor-roles/investigation"],
+          "dmproadmap_affiliation": {
+            "name": "Hakai Institute",
+            "affiliation_id": {
+              "type": "ror",
+              "identifier": "https://ror.org/0029jxk29"
+            }
+          },
+          "mbox": "b.hunt@oceans.ubc.ca",
+          "contributor_id": {
+            "type": "orcid",
+            "identifier": "https://orcid.org/0000-0003-4718-4962"
+          }
         },
         {
-          "name": "John Culnan"
+          "name": "Tim van der Stap",
+          "role": ["http://credit.niso.org/contributor-roles/data-curation"],
+          "dmproadmap_affiliation": {
+            "name": "Hakai Institute",
+            "affiliation_id": {
+              "type": "ror",
+              "identifier": "https://ror.org/0029jxk29"
+            }
+          },
+          "mbox": "tim.vanderstap@hakai.org",
+          "contributor_id": {
+            "type": "orcid",
+            "identifier": "https://orcid.org/0000-0002-0053-0795"
+          }
         },
         {
-          "name": "Rebecca Sharp"
+          "name": "Krystal Bachen",
+          "role": ["http://credit.niso.org/contributor-roles/data-curation"],
+          "dmproadmap_affiliation": {
+            "name": "Hakai Institute",
+            "affiliation_id": {
+              "type": "ror",
+              "identifier": "https://ror.org/0029jxk29"
+            }
+          },
+          "mbox": "Krystal.Bachen@hakai.org",
+          "contributor_id": {
+            "type": "orcid",
+            "identifier": "https://orcid.org/0000-0003-0886-157X"
+          }
+        },
+        {
+          "name": "Brian Riley Testing",
+          "role": [
+            "http://credit.niso.org/contributor-roles/project-administration"
+          ],
+          "dmproadmap_affiliation": {
+            "name": "University of California, Office of the President (UCOP)",
+            "affiliation_id": {
+              "type": "ror",
+              "identifier": "https://ror.org/00dmfq477"
+            }
+          },
+          "mbox": "brian.riley@ucop.edu"
         }
       ],
-      "description": "<p>Cancer survivors are a growing population in the United States; more than 16 million currently live in the US and by 2030 this number is expected to exceed 22 million.</p>",
+      "ethical_issues_report": "",
       "project": [
         {
+          "start": "2015-05-12T00:00:00Z",
+          "description": "<p>The Hakai Institute Juvenile Salmon program is an ongoing initiative that was established in 2015 in partnership with the University of British Columbia, University of Toronto, Simon Fraser University and Salmon Coast Field Station. This program researches the early life history of juvenile salmon in coastal British Columbia. Primary research objectives are determining: 1) Migration timing rates and routes; 2) Migration habitat, including physical and chemical oceanographic conditions, and availability of plankton prey; 3) The impacts of prey phenology, quantity and quality on juvenile salmon growth and condition; 4) Species and stock-specific feeding biology and competitive interactions; 5) Pathogen and parasite infection dynamics; and 6) Mortality estimates. The program targets Fraser River sockeye, and pink and chum salmon, but additionally provides information on coho, chinook, and herring through incidental capture. The field program operates between May and July during the peak of the juvenile sockeye outward migration. Purse seine and oceanographic sampling are conducted in the northern Strait of Georgia / Discovery Islands region (~ 220 km from the Fraser River mouth).</p>",
+          "end": "2025-08-15T18:09:19Z",
           "funding": [
             {
-              "name": "National Institutes of Health (NIH)",
-              "dmproadmap_funding_opportunity_id": 8
+              "name": "Hakai Institute",
+              "funder_id": {
+                "type": "ror",
+                "identifier": "https://ror.org/0029jxk29"
+              },
+              "funding_status": "granted",
+              "dmproadmap_funded_affiliations": [
+                {
+                  "name": "Hakai Institute",
+                  "affiliation_id": {
+                    "type": "ror",
+                    "identifier": "https://ror.org/0029jxk29"
+                  }
+                }
+              ]
             }
-          ]
+          ],
+          "title": "Hakai Institute Juvenile Salmon Program Time Series"
+        }
+      ],
+      "language": "eng",
+      "dmproadmap_featured": "1",
+      "modified": "2023-08-15T18:09:25Z",
+      "dmproadmap_external_system_identifier": "https://doi.org/10.48321/D1CW23",
+      "contact": {
+        "name": "Brett Johnson",
+        "dmproadmap_affiliation": {
+          "name": "Hakai Institute",
+          "affiliation_id": {
+            "type": "ror",
+            "identifier": "https://ror.org/0029jxk29"
+          }
+        },
+        "contact_id": {
+          "type": "orcid",
+          "identifier": "https://orcid.org/0000-0001-9317-0364"
+        },
+        "mbox": "brett.johnson@hakai.org"
+      },
+      "created": "2021-11-08T19:06:04Z",
+      "dmproadmap_related_identifiers": [
+        {
+          "work_type": "output_management_plan",
+          "identifier": "https://dmphub.uc3stg.cdlib.net/narratives/b44e87fa6225ff5c.pdf",
+          "descriptor": "is_metadata_for",
+          "type": "url"
+        },
+        {
+          "work_type": "article",
+          "identifier": "https://doi.org/10.6084/m9.figshare.17063996",
+          "descriptor": "is_referenced_by",
+          "type": "doi",
+          "citation": "Johnson, Brett. 2021. “Development and Evaluation of a New Method for Assessing Migration Timing of Juvenile Fraser River Sockeye Salmon in Their Early Marine Phase.” [Article]. <a href=\"https://doi.org/10.6084/m9.figshare.17063996\" target=\"_blank\">https://doi.org/10.6084/m9.figshare.17063996</a>."
+        },
+        {
+          "work_type": "article",
+          "identifier": "https://doi.org/10.1111/fog.12471",
+          "descriptor": "is_referenced_by",
+          "type": "doi",
+          "citation": "James, Samantha E., Evgeny A. Pakhomov, Natalie Mahara, and Brian P. V. Hunt. 2020. “Running the Trophic Gauntlet: Empirical Support for Reduced Foraging Success in Juvenile Salmon in Tidally Mixed Coastal Waters.” [Article]. <i>Fisheries Oceanography</i> 29 (3): 290–95. <a href=\"https://doi.org/10.1111/fog.12471\" target=\"_blank\">https://doi.org/10.1111/fog.12471</a>."
+        },
+        {
+          "work_type": "article",
+          "identifier": "https://doi.org/10.14288/1.0380885",
+          "descriptor": "is_referenced_by",
+          "type": "doi",
+          "citation": "James, Samantha E. 2019. “Foraging Ecology of Juvenile Fraser River Sockeye Salmon across Mixed and Stratified Regions of the Early Marine Migration.” [Article]. <a href=\"https://doi.org/10.14288/1.0380885\" target=\"_blank\">https://doi.org/10.14288/1.0380885</a>."
+        },
+        {
+          "work_type": "article",
+          "identifier": "https://doi.org/10.1139/cjfas-2020-0160",
+          "descriptor": "is_referenced_by",
+          "type": "doi",
+          "citation": "Brookson, Cole B., Martin Krko\\vsek, Brian P.V. Hunt, Brett T. Johnson, Luke A. Rogers, and Sean. C. Godwin. 2020. “Differential Infestation of Juvenile Pacific Salmon by Parasitic Sea Lice in British Columbia, Canada.” [Article]. <i>Canadian Journal of Fisheries and Aquatic Sciences</i> 77 (12): 1960–68. <a href=\"https://doi.org/10.1139/cjfas-2020-0160\" target=\"_blank\">https://doi.org/10.1139/cjfas-2020-0160</a>."
+        },
+        {
+          "work_type": "dataset",
+          "identifier": "https://doi.org/10.21966/1.566666",
+          "descriptor": "cites",
+          "type": "doi",
+          "citation": "Johnson, Brett, Julian Gan, Sean Godwin, Krystal Bachen, Tim van der Stap, and Brian Hunt. 2017. “Hakai Institute Juvenile Salmon Program.” [Dataset]. Hakai Institute. <a href=\"https://doi.org/10.21966/1.566666\" target=\"_blank\">https://doi.org/10.21966/1.566666</a>."
+        },
+        {
+          "work_type": "article",
+          "identifier": "https://doi.org/10.5281/zenodo.5719523",
+          "descriptor": "cites",
+          "type": "doi",
+          "citation": "Hunt, Brian P.V., Brett T. Johnson, Sean C. Godwin, Martin Krkosek, Evgeny Pakhomov, and Luke A. Rogers. 2018. “The Hakai Institute Juvenile Salmon Program: Early Life History Drivers of Marine Survival in Sockeye, Pink and Chum Salmon in British Columbia, Canada.” [Article]. Zenodo. <a href=\"https://doi.org/10.5281/zenodo.5719523\" target=\"_blank\">https://doi.org/10.5281/zenodo.5719523</a>."
+        },
+        {
+          "work_type": "dataset",
+          "identifier": "https://obis.org/dataset/ec1dc821-fead-4448-b25f-f26651959f7c",
+          "descriptor": "cites",
+          "type": "url"
+        },
+        {
+          "work_type": "article",
+          "identifier": "https://doi.org/10.14288/1.0390996",
+          "descriptor": "cites",
+          "type": "doi",
+          "citation": "Johnston, Stephen D. 2020. “Survival and Migration Characteristics of Juvenile Sockeye Salmon (Oncorhynchus Nerka) Smolts through Complex Nearshore Coastal Migration Corridors.” [Article]. <a href=\"https://doi.org/10.14288/1.0390996\" target=\"_blank\">https://doi.org/10.14288/1.0390996</a>."
+        },
+        {
+          "work_type": "preprint",
+          "identifier": "https://doi.org/10.1101/2021.06.15.448581",
+          "descriptor": "cites",
+          "type": "doi",
+          "citation": "Bateman, Andrew W., Amy K. Teffer, Arthur Bass, Tobi Ming, Brian P. V. Hunt, Martin Krko\\vsek, and Kristina M. Miller. 2021. “Atlantic Salmon Farms Are a Likely Source of Tenacibaculum Maritimum Infection in Migratory Fraser River Sockeye Salmon,” June. <a href=\"https://doi.org/10.1101/2021.06.15.448581\" target=\"_blank\">https://doi.org/10.1101/2021.06.15.448581</a>."
+        },
+        {
+          "work_type": "article",
+          "identifier": "https://doi.org/10.7554/eLife.47615.001",
+          "descriptor": "cites",
+          "type": "doi",
+          "citation": "“Abstract.” [Article]. n.d. eLife Sciences Publications, Ltd. <a href=\"https://doi.org/10.7554/eLife.47615.001\" target=\"_blank\">https://doi.org/10.7554/eLife.47615.001</a>."
+        },
+        {
+          "work_type": "article",
+          "identifier": "https://doi.org/10.1126/sciadv.abe2592",
+          "descriptor": "cites",
+          "type": "doi",
+          "citation": "Mordecai, Gideon J., Kristina M. Miller, Arthur L. Bass, Andrew W. Bateman, Amy K. Teffer, Jessica M. Caleta, Emiliano Di Cicco, et al. 2021. “Aquaculture Mediates Global Transmission of a Viral Pathogen to Wild Salmon.” [Article]. <i>Science Advances</i> 7 (22). <a href=\"https://doi.org/10.1126/sciadv.abe2592\" target=\"_blank\">https://doi.org/10.1126/sciadv.abe2592</a>."
+        },
+        {
+          "work_type": "article",
+          "identifier": "https://dx.doi.org/10.14288/1.0396439",
+          "descriptor": "cites",
+          "type": "doi",
+          "citation": "Zahner (Skil Jaadaa), Vanessa Rose. 2021. “Strategies for Coexisting : Juvenile Pink and Chum Salmon Diets and Interactions in a Challenging Section of Coastal Migration.” [Article]. <a href=\"https://dx.doi.org/10.14288/1.0396439\" target=\"_blank\">https://dx.doi.org/10.14288/1.0396439</a>."
+        },
+        {
+          "work_type": "article",
+          "identifier": "https://dx.doi.org/10.14288/1.0396439",
+          "descriptor": "cites",
+          "type": "doi",
+          "citation": "Zahner (Skil Jaadaa), Vanessa Rose. 2021. “Strategies for Coexisting : Juvenile Pink and Chum Salmon Diets and Interactions in a Challenging Section of Coastal Migration.” [Article]. <a href=\"https://dx.doi.org/10.14288/1.0396439\" target=\"_blank\">https://dx.doi.org/10.14288/1.0396439</a>."
+        },
+        {
+          "work_type": "dataset",
+          "identifier": "https://doi.org/10.5061/dryad.x69p8czn0",
+          "descriptor": "cites",
+          "type": "doi",
+          "citation": "Garzke, Jessica, Ian Forester, Sean Godwin, Brett Johnson, Martin Krkosek, Natalie Mahara, Evgeny Pakhomov, and Luke Rogers. 2022. “Data for: Dynamic Coastal Pelagic Habitat Drives Rapid Changes in Growth and Condition of Juvenile Sockeye Salmon (Oncorhynchus Nerka) during Early Marine Migration.” [Dataset]. Dryad. <a href=\"https://doi.org/10.5061/dryad.x69p8czn0\" target=\"_blank\">https://doi.org/10.5061/dryad.x69p8czn0</a>."
+        },
+        {
+          "work_type": "dataset",
+          "identifier": "https://doi.org/10.1093/ve/veaa069 ",
+          "descriptor": "cites",
+          "type": "doi",
+          "citation": "Mordecai, Gideon J, Emiliano Di Cicco, Oliver P Günther, Angela D Schulze, Karia H Kaukinen, Shaorong Li, Amy Tabata, et al. 2020. “Discovery and Surveillance of Viruses from Salmon in British Columbia Using Viral Immune-Response Biomarkers, Metatranscriptomics, and High-Throughput RT-PCR.” [Dataset]. <i>Virus Evolution</i> 7 (1). <a href=\"https://doi.org/10.1093/ve/veaa069\" target=\"_blank\">https://doi.org/10.1093/ve/veaa069</a>."
+        },
+        {
+          "work_type": "output_management_plan",
+          "identifier": "https://dmphub.uc3stg.cdlib.net/narratives/5f414f726e23cba3.pdf",
+          "descriptor": "is_metadata_for",
+          "type": "url"
+        }
+      ],
+      "dmp_id": {
+        "type": "doi",
+        "identifier": "https://doi.org/10.48321/D1CW23"
+      },
+      "ethical_issues_exist": "no",
+      "dmproadmap_links": {
+        "download": "https://dmptool-stg.cdlib.org/api/v2/plans/72107.pdf",
+        "get": "http://localhost:3000/api/v2/plans/72107"
+      },
+      "ethical_issues_description": "",
+      "dataset": [
+        {
+          "metadata": [
+            {
+              "metadata_standard_id": {
+                "type": "url",
+                "identifier": "https://rdamsc.bath.ac.uk/api2/m9"
+              },
+              "description": "Darwin Core - <p>A body of standards, including a glossary of terms (in other contexts these might be called properties, elements, fields, columns, attributes, or concepts) intended to facilitate the sharing of information about biological diversity by providing reference definitions, examples, and commentaries.</p><p>Sponsored by Biodiversity Information Standards (TWDG), the current standard was last modified in October 2009.</p> - http://rs.tdwg.org/dwc/index.htm"
+            }
+          ],
+          "dataset_id": { "type": "other", "identifier": "1550" },
+          "description": "<p>The data published to the Ocean Biodiversity Information System (OBIS) includes the long-term catch abundance by species, with associated fork lengths and weights. Additionally, it includes data on sea lice counts, genetic stock ID results, and zooplankton taxonomy.&nbsp;</p>",
+          "type": "dataset",
+          "title": "Hakai Institute Juvenile Salmon Program Time Series",
+          "distribution": [
+            {
+              "host": {
+                "description": "OBIS strives to document the ocean's diversity, distribution and abundance of life. Created by the Census of Marine Life, OBIS is now part of the Intergovernmental Oceanographic Commission (IOC) of UNESCO, under its International Oceanographic Data and Information Exchange (IODE) programme",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100010088"
+                },
+                "title": "Ocean Biogeographic Information System",
+                "url": "http://iobis.org/"
+              },
+              "license": [
+                {
+                  "license_ref": "https://spdx.org/licenses/CC-BY-4.0.json",
+                  "start_date": "2021-05-18T00:00:00Z"
+                }
+              ],
+              "title": "Anticipated distribution for Hakai Institute Juvenile Salmon Program Time Series",
+              "data_access": "open"
+            }
+          ],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2021-05-18T00:00:00Z",
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "dataset_id": { "type": "other", "identifier": "1551" },
+          "description": "<p>Dataset will contain the RNA:DNA ratio data to indicate growth. Jessica Garzke (UBC) is the responsible party for this dataset.&nbsp;</p>",
+          "preservation_statement": "",
+          "type": "dataset",
+          "title": "RNA:DNA growth data",
+          "distribution": [],
+          "technical_resource": [],
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [
+            {
+              "metadata_standard_id": {
+                "type": "url",
+                "identifier": "https://rdamsc.bath.ac.uk/api2/m22"
+              },
+              "description": "ISO 19115 - <p>An internationally-adopted schema for describing geographic information and services. It provides information about the identification, the extent, the quality, the spatial and temporal schema, spatial reference, and distribution of digital geographic data.</p><p>Sponsored by the International Standards Organisation, the first edition of ISO 19115 was published in 2003. It has since been split into parts: ISO 19115-1:2014 contains the fundamentals of the standard; ISO 19115-2:2009 contains extensions for imagery and gridded data; and ISO/TS 19115-3:2016 provides an XML schema implementation for the fundamental concepts compatible with ISO/TS 19138:2007 (Geographic Metadata XML, or GMD).</p> - http://www.iso.org/iso/catalogue_detail.htm?csnumber=53798"
+            }
+          ],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "dataset_id": { "type": "other", "identifier": "1552" },
+          "description": "<p>This dataset will include fatty acid data derived from juvenile salmon tissue samples.&nbsp;</p> <p>Alicia Andersen is going to provide this dataset.</p>",
+          "preservation_statement": "",
+          "type": "dataset",
+          "title": "Fatty acids from juvenile salmon",
+          "distribution": [
+            {
+              "host": {
+                "description": "Hakai Data stores and shares research information associated with Hakai Institute. The Hakai Institute is a scientific research institution that advances long-term research at remote locations on the coastal margin of British Columbia, Canada. Hakai Data Systems: Data Catalogue, Sensor Network, Geospatial Data, Weather Stations and Webcams, ERDDAP Data Server",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100013227"
+                },
+                "title": "Hakai EIMS",
+                "url": "https://data.hakai.org/"
+              },
+              "license": [
+                {
+                  "license_ref": "https://spdx.org/licenses/CC-BY-4.0.json",
+                  "start_date": "2021-11-09T23:29:21Z"
+                }
+              ],
+              "title": "Anticipated distribution for Fatty acids from juvenile salmon",
+              "data_access": "open"
+            }
+          ],
+          "technical_resource": [],
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "dataset_id": { "type": "other", "identifier": "1555" },
+          "description": "<p>Microchemistry data as obtained from otolith analysis. Otoliths were obtained from juvenile salmon as part of the Juvenile Salmon Program (JSP). The responsible party for this dataset is Yuliya Kuzmenko (UBC).&nbsp;</p> <p>&nbsp;</p> <p>The Paper has been published at <a class=\"linkified\" href=\"https://doi.org/10.26428/1606-9919-2021-201-669-685\" target=\"_blank\" rel=\"noopener\">https://doi.org/10.26428/1606-9919-2021-201-669-685</a>&nbsp; but we need to reach out to Yuliya to collect data.</p>",
+          "preservation_statement": "",
+          "type": "dataset",
+          "title": "Otolith Microchemistry from juvenile sockeye",
+          "distribution": [
+            {
+              "host": {
+                "description": "Hakai Data stores and shares research information associated with Hakai Institute. The Hakai Institute is a scientific research institution that advances long-term research at remote locations on the coastal margin of British Columbia, Canada. Hakai Data Systems: Data Catalogue, Sensor Network, Geospatial Data, Weather Stations and Webcams, ERDDAP Data Server",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100013227"
+                },
+                "title": "Hakai EIMS",
+                "url": "https://data.hakai.org/"
+              },
+              "license": [
+                {
+                  "license_ref": "https://spdx.org/licenses/CC-BY-4.0.json",
+                  "start_date": "2021-11-09T23:51:30Z"
+                }
+              ],
+              "title": "Anticipated distribution for Otolith Microchemistry from juvenile sockeye",
+              "data_access": "open"
+            }
+          ],
+          "technical_resource": [],
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "dataset_id": { "type": "other", "identifier": "1556" },
+          "description": "<p>The responsible parties for this dataset are Tianyi Chang and Curtis Suttle.&nbsp;</p> <p>Need an update from Tianyi</p>",
+          "preservation_statement": "",
+          "type": "dataset",
+          "title": "Sealice microbiome viral and bacterial data",
+          "distribution": [],
+          "technical_resource": [],
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [
+            {
+              "metadata_standard_id": {
+                "type": "url",
+                "identifier": "https://rdamsc.bath.ac.uk/api2/m22"
+              },
+              "description": "ISO 19115 - <p>An internationally-adopted schema for describing geographic information and services. It provides information about the identification, the extent, the quality, the spatial and temporal schema, spatial reference, and distribution of digital geographic data.</p><p>Sponsored by the International Standards Organisation, the first edition of ISO 19115 was published in 2003. It has since been split into parts: ISO 19115-1:2014 contains the fundamentals of the standard; ISO 19115-2:2009 contains extensions for imagery and gridded data; and ISO/TS 19115-3:2016 provides an XML schema implementation for the fundamental concepts compatible with ISO/TS 19138:2007 (Geographic Metadata XML, or GMD).</p> - http://www.iso.org/iso/catalogue_detail.htm?csnumber=53798"
+            }
+          ],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "dataset_id": { "type": "other", "identifier": "1557" },
+          "description": "<p>This dataset will contain isotope data obtained from juvenile salmon caught during the JSP. The responsible party for this dataset is Brian Hunt.&nbsp;</p>",
+          "preservation_statement": "",
+          "type": "dataset",
+          "title": "Stable isotope ratios from juvenile salmon muscle tissue",
+          "distribution": [
+            {
+              "host": {
+                "description": "Hakai Data stores and shares research information associated with Hakai Institute. The Hakai Institute is a scientific research institution that advances long-term research at remote locations on the coastal margin of British Columbia, Canada. Hakai Data Systems: Data Catalogue, Sensor Network, Geospatial Data, Weather Stations and Webcams, ERDDAP Data Server",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100013227"
+                },
+                "title": "Hakai EIMS",
+                "url": "https://data.hakai.org/"
+              },
+              "license": [
+                {
+                  "license_ref": "https://spdx.org/licenses/CC-BY-4.0.json",
+                  "start_date": "2021-11-10T00:04:55Z"
+                }
+              ],
+              "title": "Anticipated distribution for Stable isotope ratios from juvenile salmon muscle tissue",
+              "data_access": "open"
+            }
+          ],
+          "technical_resource": [],
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "dataset_id": { "type": "other", "identifier": "1558" },
+          "description": "<p>This dataset will contain isotope data obtained from the zooplankton caught as part of the Juvenile Salmon Program (JSP). Brian Hunt is the responsible party for this dataset.&nbsp;</p>",
+          "preservation_statement": "",
+          "type": "dataset",
+          "title": "Zooplankton Isotopes from JSP surface horizontal tows",
+          "distribution": [],
+          "technical_resource": [],
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "dataset_id": { "type": "other", "identifier": "1559" },
+          "description": "<p>Environmental DNA (eDNA) is collected as part of the Juvenile Salmon Program field operations, starting in 2020. The responsible party for this dataset is Natalie Benoit (UBC).&nbsp;</p>",
+          "preservation_statement": "",
+          "type": "dataset",
+          "title": "eDNA from JSP seines",
+          "distribution": [],
+          "technical_resource": [],
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "dataset_id": { "type": "other", "identifier": "2059" },
+          "description": "<p>Sam James analyzed numerous juvenile sockeye salmon stomachs and identified taxa.&nbsp;</p> <p>This data has been published @ https://doi.org/10.21966/3s9g-w013</p>",
+          "preservation_statement": "",
+          "type": "dataset",
+          "title": "Sockeye stomach contents 2015/2016",
+          "distribution": [
+            {
+              "title": "Anticipated distribution for Sockeye stomach contents 2015/2016",
+              "data_access": "open",
+              "host": {
+                "description": "Hakai Data stores and shares research information associated with Hakai Institute. The Hakai Institute is a scientific research institution that advances long-term research at remote locations on the coastal margin of British Columbia, Canada. Hakai Data Systems: Data Catalogue, Sensor Network, Geospatial Data, Weather Stations and Webcams, ERDDAP Data Server",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100013227"
+                },
+                "title": "Hakai EIMS",
+                "url": "https://data.hakai.org/"
+              }
+            }
+          ],
+          "technical_resource": [],
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "dataset_id": { "type": "other", "identifier": "2060" },
+          "description": "<p>Steve Johnston tagged juvenile sockeye salmon as part of his masters' thesis. The data collected with Hakai is part of a larger data set which is published to OBIS @ <a href=\"https://obis.org/dataset/ec1dc821-fead-4448-b25f-f26651959f7c\" target=\"_blank\" rel=\"noopener\">https://obis.org/dataset/ec1dc821-fead-4448-b25f-f26651959f7c</a></p>",
+          "preservation_statement": "",
+          "type": "dataset",
+          "title": "Acoustic telemetry data for juvenile sockeye",
+          "distribution": [
+            {
+              "host": {
+                "description": "OBIS strives to document the ocean's diversity, distribution and abundance of life. Created by the Census of Marine Life, OBIS is now part of the Intergovernmental Oceanographic Commission (IOC) of UNESCO, under its International Oceanographic Data and Information Exchange (IODE) programme",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100010088"
+                },
+                "title": "Ocean Biogeographic Information System",
+                "url": "http://iobis.org/"
+              },
+              "license": [
+                {
+                  "license_ref": "https://spdx.org/licenses/CC-BY-4.0.json",
+                  "start_date": "2022-01-27T23:46:54Z"
+                }
+              ],
+              "title": "Anticipated distribution for Acoustic telemetry data for juvenile sockeye",
+              "data_access": "open"
+            }
+          ],
+          "technical_resource": [],
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "2061" },
+          "description": "<p>An integration of Sam James, Vanessa Fladmark, and Natalie Mahara's zooplankton taxonomy from horizontal surface tows in the Discovery Islands and Johnstone Strait.</p>",
+          "type": "dataset",
+          "title": "Zooplankton Taxonomy from JSP and Oceanography horizontal surface tows",
+          "distribution": [
+            {
+              "host": {
+                "description": "Hakai Data stores and shares research information associated with Hakai Institute. The Hakai Institute is a scientific research institution that advances long-term research at remote locations on the coastal margin of British Columbia, Canada. Hakai Data Systems: Data Catalogue, Sensor Network, Geospatial Data, Weather Stations and Webcams, ERDDAP Data Server",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100013227"
+                },
+                "title": "Hakai EIMS",
+                "url": "https://data.hakai.org/"
+              },
+              "license": [
+                {
+                  "license_ref": "https://spdx.org/licenses/CC-BY-4.0.json",
+                  "start_date": "2022-03-31T00:00:00Z"
+                }
+              ],
+              "title": "Anticipated distribution for Zooplankton Taxonomy from JSP and Oceanography horizontal surface tows",
+              "data_access": "open"
+            },
+            {
+              "host": {
+                "description": "OBIS strives to document the ocean's diversity, distribution and abundance of life. Created by the Census of Marine Life, OBIS is now part of the Intergovernmental Oceanographic Commission (IOC) of UNESCO, under its International Oceanographic Data and Information Exchange (IODE) programme",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100010088"
+                },
+                "title": "Ocean Biogeographic Information System",
+                "url": "http://iobis.org/"
+              },
+              "license": [
+                {
+                  "license_ref": "https://spdx.org/licenses/CC-BY-4.0.json",
+                  "start_date": "2022-03-31T00:00:00Z"
+                }
+              ],
+              "title": "Anticipated distribution for Zooplankton Taxonomy from JSP and Oceanography horizontal surface tows",
+              "data_access": "open"
+            }
+          ],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2022-03-31T00:00:00Z",
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "dataset_id": { "type": "other", "identifier": "2062" },
+          "description": "<p>Dataset from fish tissue samples sent to Kristi Millers lab. Currently the dataset is published as part of the Hakai JSP data package, and likely along with some other articles that were written using the data.</p>",
+          "preservation_statement": "",
+          "type": "dataset",
+          "title": "RNA pathogen and gene expression data: Fitchip data from sockeye",
+          "distribution": [
+            {
+              "host": {
+                "description": "Hakai Data stores and shares research information associated with Hakai Institute. The Hakai Institute is a scientific research institution that advances long-term research at remote locations on the coastal margin of British Columbia, Canada. Hakai Data Systems: Data Catalogue, Sensor Network, Geospatial Data, Weather Stations and Webcams, ERDDAP Data Server",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100013227"
+                },
+                "title": "Hakai EIMS",
+                "url": "https://data.hakai.org/"
+              },
+              "license": [
+                {
+                  "license_ref": "https://spdx.org/licenses/CC-BY-4.0.json",
+                  "start_date": "2022-01-27T23:55:26Z"
+                }
+              ],
+              "title": "Anticipated distribution for RNA pathogen and gene expression data: Fitchip data from sockeye",
+              "data_access": "open"
+            }
+          ],
+          "technical_resource": [],
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "dataset_id": { "type": "other", "identifier": "2079" },
+          "description": "<p>Vanessa Zahner's MSc. thesis work. Data are published at https://doi.org/10.21966/ean1-n995</p>",
+          "type": "dataset",
+          "title": "Stomach contents from pink and chum salmon",
+          "distribution": [],
+          "technical_resource": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "preservation_statement": "",
+          "issued": "2020-11-18T00:00:00Z",
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "dataset_id": { "type": "other", "identifier": "2080" },
+          "description": "<p>Fin clips and liver samples are sent to the Pacific Biological Station for stock identification. Currently, we have results from 2015&ndash;2019.&nbsp;</p> <p>These data could be published in a stand alone data package, with an accompanying data paper. Currently, they reside in the JSP GitHub repo along with the JSP Time-series dataset.</p>",
+          "preservation_statement": "",
+          "type": "dataset",
+          "title": "Genetic stock identification of sockeye",
+          "distribution": [
+            {
+              "title": "Anticipated distribution for Genetic stock identification of sockeye",
+              "data_access": "open",
+              "host": {
+                "description": "OBIS strives to document the ocean's diversity, distribution and abundance of life. Created by the Census of Marine Life, OBIS is now part of the Intergovernmental Oceanographic Commission (IOC) of UNESCO, under its International Oceanographic Data and Information Exchange (IODE) programme",
+                "dmproadmap_host_id": {
+                  "type": "url",
+                  "identifier": "https://www.re3data.org/api/v1/repository/r3d100010088"
+                },
+                "title": "Ocean Biogeographic Information System",
+                "url": "http://iobis.org/"
+              }
+            }
+          ],
+          "technical_resource": [],
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        },
+        {
+          "metadata": [],
+          "personal_data": "unknown",
+          "sensitive_data": "unknown",
+          "dataset_id": { "type": "other", "identifier": "2081" },
+          "description": "<p>Scales are collected for every salmon and herring and archived. No analysis has been completed at this stage nor is any planned.</p>",
+          "preservation_statement": "",
+          "type": "dataset",
+          "title": "Scales collected from sockeye, pink, chum, coho, chinook and herring",
+          "distribution": [],
+          "technical_resource": [],
+          "keyword": [
+            "Earth and related environmental sciences",
+            "1.5 - Earth and related environmental sciences"
+          ],
+          "data_quality_assurance": [""]
+        }
+      ],
+      "dmproadmap_privacy": "public",
+      "dmproadmap_template": {
+        "title": "Hakai Institute Data Management Plan",
+        "id": "367513165"
+      },
+      "description": "<p>The Hakai Institute Juvenile Salmon program is an ongoing initiative that was established in 2015 in partnership with the University of British Columbia, University of Toronto, Simon Fraser University and Salmon Coast Field Station. This program researches the early life history of juvenile salmon in coastal British Columbia. Primary research objectives are determining: 1) Migration timing rates and routes; 2) Migration habitat, including physical and chemical oceanographic conditions, and availability of plankton prey; 3) The impacts of prey phenology, quantity and quality on juvenile salmon growth and condition; 4) Species and stock-specific feeding biology and competitive interactions; 5) Pathogen and parasite infection dynamics; and 6) Mortality estimates. The program targets Fraser River sockeye, and pink and chum salmon, but additionally provides information on coho, chinook, and herring through incidental capture. The field program operates between May and July during the peak of the juvenile sockeye outward migration. Purse seine and oceanographic sampling are conducted in the northern Strait of Georgia / Discovery Islands region (~ 220 km from the Fraser River mouth).</p>",
+      "title": "Hakai Institute Juvenile Salmon Program Time Series",
+      "dmphub_versions": [
+        {
+          "timestamp": "2023-08-15T18:09:25Z",
+          "url": "https://dmphub.uc3stg.cdlib.net/dmps/doi.org/10.48321/D1CW23"
+        },
+        {
+          "timestamp": "2023-08-07T19:53:33Z",
+          "url": "https://dmphub.uc3stg.cdlib.net/dmps/doi.org/10.48321/D1CW23?version=2023-08-07T19:53:33Z"
+        }
+      ]
+    }
+  },
+  {
+    "dmp": {
+      "dmproadmap_external_system_identifier": "https://doi.org/10.48321/D1DW5J",
+      "contact": {
+        "name": "Maria Praetzellis",
+        "dmproadmap_affiliation": {
+          "name": "University of California, Office of the President (UCOP)",
+          "affiliation_id": {
+            "type": "ror",
+            "identifier": "https://ror.org/00dmfq477"
+          }
+        },
+        "contact_id": {
+          "type": "orcid",
+          "identifier": "https://orcid.org/0000-0001-5047-3090"
+        },
+        "mbox": "maria.praetzellis@ucop.edu"
+      },
+      "created": "2023-01-06T01:46:51Z",
+      "dmproadmap_related_identifiers": [
+        {
+          "work_type": "output_management_plan",
+          "identifier": "https://dmphub.uc3stg.cdlib.net/narratives/58b002ea0612e5dc.pdf",
+          "descriptor": "is_metadata_for",
+          "type": "url"
+        },
+        {
+          "work_type": "output_management_plan",
+          "identifier": "https://dmphub.uc3stg.cdlib.net/narratives/ce244ec45ce4e8d7.pdf",
+          "descriptor": "is_metadata_for",
+          "type": "url"
+        }
+      ],
+      "project": [
+        {
+          "start": "2023-08-15T17:41:02Z",
+          "end": "2025-08-15T17:41:02Z",
+          "funding": [
+            {
+              "name": "National Institutes of Health (nih.gov)",
+              "funder_id": {
+                "type": "ror",
+                "identifier": "https://ror.org/01cwqze88"
+              },
+              "funding_status": "planned",
+              "dmproadmap_funded_affiliations": [
+                {
+                  "name": "University of California, Office of the President (UCOP)",
+                  "affiliation_id": {
+                    "type": "ror",
+                    "identifier": "https://ror.org/00dmfq477"
+                  }
+                }
+              ]
+            }
+          ],
+          "title": "Test plan"
+        }
+      ],
+      "dmp_id": {
+        "type": "doi",
+        "identifier": "https://doi.org/10.48321/D1DW5J"
+      },
+      "ethical_issues_exist": "unknown",
+      "language": "eng",
+      "dmproadmap_links": {
+        "download": "https://dmptool-stg.cdlib.org/api/v2/plans/88394.pdf",
+        "get": "http://localhost:3000/api/v2/plans/88394"
+      },
+      "dataset": [
+        {
+          "type": "dataset",
+          "title": "Generic dataset",
+          "description": "No individual datasets have been defined for this DMP."
+        }
+      ],
+      "dmproadmap_privacy": "public",
+      "dmproadmap_template": {
+        "title": "NIH-GEN DMSP (Forthcoming 2023) ",
+        "id": "1797801494"
+      },
+      "dmproadmap_featured": "1",
+      "modified": "2023-08-15T17:41:04Z",
+      "title": "Test plan",
+      "dmphub_versions": [
+        {
+          "timestamp": "2023-08-15T17:41:04Z",
+          "url": "https://dmphub.uc3stg.cdlib.net/dmps/doi.org/10.48321/D1DW5J"
+        },
+        {
+          "timestamp": "2023-08-15T15:12:06Z",
+          "url": "https://dmphub.uc3stg.cdlib.net/dmps/doi.org/10.48321/D1DW5J?version=2023-08-15T15:12:06Z"
+        },
+        {
+          "timestamp": "2023-08-14T22:34:01Z",
+          "url": "https://dmphub.uc3stg.cdlib.net/dmps/doi.org/10.48321/D1DW5J?version=2023-08-14T22:34:01Z"
+        },
+        {
+          "timestamp": "2023-08-07T16:54:53Z",
+          "url": "https://dmphub.uc3stg.cdlib.net/dmps/doi.org/10.48321/D1DW5J?version=2023-08-07T16:54:53Z"
         }
       ]
     }
